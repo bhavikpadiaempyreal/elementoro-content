@@ -12,7 +12,7 @@
     "empty, that field falls back to the words the site was built with. Nothing",
     "typed in here can take the page down.",
     "",
-    "Not in here: file names, colours, layer coordinates and the artist’s slugs.",
+    "Not in here: file names, colours, layer coordinates and the artist\u2019s slugs.",
     "Those are machinery, not copy.",
     "",
     "Editing the LIVE site still needs a deploy - this file has to reach the host.",
@@ -35,7 +35,7 @@
   },
   "bonds.BONDS.laws[0].lines[0]": {
     "max": 15,
-    "text": "Together they discover that every reaction — love or loss — obeys one universal law."
+    "text": "Together they discover that every reaction \u2014 love or loss \u2014 obeys one universal law."
   },
   "bonds.BONDS.laws[0].land": {
     "max": 7,
@@ -135,7 +135,7 @@
   },
   "bonds.BONDS.close.lines[1]": {
     "max": 7,
-    "text": "we are always entangled in relation -"
+    "text": "we are always entangled in relation\u00a0-"
   },
   "bonds.BONDS.close.land": {
     "max": 3,
@@ -159,7 +159,7 @@
   },
   "childhood.CHILDHOOD.thousand[0]": {
     "max": 6,
-    "text": "They can name a thousand Pokémon."
+    "text": "They can name a thousand Pok\u00e9mon."
   },
   "childhood.CHILDHOOD.thousand[1]": {
     "max": 6,
@@ -219,7 +219,7 @@
   },
   "closing.FOOTER.line": {
     "max": 4,
-    "text": "© 2026 NankiBai Ltd"
+    "text": "\u00a9 2026 NankiBai Ltd"
   },
   "closing.FOOTER.links[0].label": {
     "max": 2,
@@ -1275,7 +1275,7 @@
   },
   "prologue.PROLOGUE[2].blocks[22].text": {
     "max": 3,
-    "text": "It calls itself…"
+    "text": "It calls itself\u2026"
   },
   "prologue.PROLOGUE[2].blocks[23].text": {
     "max": 1,
@@ -1335,7 +1335,7 @@
   },
   "quantum.QUANTUM.aware.lines[1]": {
     "max": 5,
-    "text": "builds worlds, tells stories —"
+    "text": "builds worlds, tells stories \u2014"
   },
   "quantum.QUANTUM.aware.land": {
     "max": 5,
@@ -1351,7 +1351,7 @@
   },
   "quantum.QUANTUM.claims[1]": {
     "max": 20,
-    "text": "And the arrangement of electrons across the 7 can be only — 2, 8, 18, 18, 32, 32, 18, 8."
+    "text": "And the arrangement of electrons across the 7 can be only \u2014 2, 8, 18, 18, 32, 32, 18, 8."
   },
   "quantum.QUANTUM.shellsCaption": {
     "max": 8,
@@ -1539,7 +1539,7 @@
   },
   "realms.REALMS[0].lines[1]": {
     "max": 46,
-    "text": "They honour Jivara, Guardian of Life, and Prana, Keeper of Breath. Yet the oldest myths, which speak of the Ancients – the Weaver of all bonds, the Composer whose song rises from countless small things, the River of time itself – are beginning to emerge again."
+    "text": "They honour Jivara, Guardian of Life, and Prana, Keeper of Breath. Yet the oldest myths, which speak of the Ancients \u2013 the Weaver of all bonds, the Composer whose song rises from countless small things, the River of time itself \u2013 are beginning to emerge again."
   },
   "realms.REALMS[0].lines[2]": {
     "max": 20,
@@ -2183,7 +2183,7 @@
   },
   "universe.OFFER.rest": {
     "max": 5,
-    "text": "This is only the beginning."
+    "text": "Changed on GitHub, nothing deployed."
   },
   "universe.OFFER.email": {
     "max": 1,
@@ -2307,7 +2307,7 @@
   },
   "ui.DECK_UI.claim": {
     "max": 11,
-    "text": "Every one of them real. Every power they carry — true."
+    "text": "Every one of them real. Every power they carry \u2014 true."
   },
   "ui.DECK_UI.close": {
     "max": 4,
@@ -2467,7 +2467,7 @@
   },
   "ui.WELCOME_UI.run": {
     "max": 11,
-    "text": "And if you hear silence where there should be sound —"
+    "text": "And if you hear silence where there should be sound \u2014"
   },
   "ui.WELCOME_UI.runWord": {
     "max": 1,

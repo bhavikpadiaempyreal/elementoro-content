@@ -1,0 +1,3128 @@
+{
+  "_readme": [
+    "Every word on the Elementoro site, in one file.",
+    "",
+    "Each entry is one piece of text on the page.",
+    "  text  what shows on the site - this is the bit you change",
+    "  max   the word limit. Paste in more than this and the extra words are cut,",
+    "        so a long paste cannot break the layout. Change the number if a line",
+    "        should be allowed to run longer.",
+    "",
+    "Safe to get wrong. If this file is missing, malformed, or a field is left",
+    "empty, that field falls back to the words the site was built with. Nothing",
+    "typed in here can take the page down.",
+    "",
+    "Not in here: file names, colours, layer coordinates and the artist’s slugs.",
+    "Those are machinery, not copy.",
+    "",
+    "Editing the LIVE site still needs a deploy - this file has to reach the host.",
+    "Keys starting with _ are ignored.",
+    "",
+    "Regenerate after a source change with: node tools/make-content.mjs",
+    "Your edits are kept; only new fields are added."
+  ],
+  "bonds.BONDS.eyebrow": {
+    "max": 3,
+    "text": "The truth beneath"
+  },
+  "bonds.BONDS.heading[0]": {
+    "max": 4,
+    "text": "What came before bonds?"
+  },
+  "bonds.BONDS.lead": {
+    "max": 21,
+    "text": "As the 118 race to heal what was broken, they must uncover what came before bonds, before the Great Fracturing itself."
+  },
+  "bonds.BONDS.laws[0].lines[0]": {
+    "max": 15,
+    "text": "Together they discover that every reaction — love or loss — obeys one universal law."
+  },
+  "bonds.BONDS.laws[0].land": {
+    "max": 7,
+    "text": "Nothing truly ends. It only changes form."
+  },
+  "bonds.BONDS.laws[1].lines[0]": {
+    "max": 6,
+    "text": "And the oldest force in existence"
+  },
+  "bonds.BONDS.laws[1].land": {
+    "max": 3,
+    "text": "Is connection itself."
+  },
+  "bonds.BONDS.awareness[0]": {
+    "max": 10,
+    "text": "From connection, from memory, the universe begins to comprehend itself."
+  },
+  "bonds.BONDS.awareness[1]": {
+    "max": 11,
+    "text": "Elementoro gives this a name, a story and a mythology: Awareness."
+  },
+  "bonds.BONDS.chain[0].noun": {
+    "max": 1,
+    "text": "Electrons"
+  },
+  "bonds.BONDS.chain[0].verb": {
+    "max": 1,
+    "text": "spin"
+  },
+  "bonds.BONDS.chain[1].noun": {
+    "max": 1,
+    "text": "Elements"
+  },
+  "bonds.BONDS.chain[1].verb": {
+    "max": 1,
+    "text": "bond"
+  },
+  "bonds.BONDS.chain[2].noun": {
+    "max": 1,
+    "text": "Chemicals"
+  },
+  "bonds.BONDS.chain[2].verb": {
+    "max": 1,
+    "text": "react"
+  },
+  "bonds.BONDS.chain[3].noun": {
+    "max": 1,
+    "text": "Compounds"
+  },
+  "bonds.BONDS.chain[3].verb": {
+    "max": 1,
+    "text": "build"
+  },
+  "bonds.BONDS.chain[4].noun": {
+    "max": 1,
+    "text": "Cells"
+  },
+  "bonds.BONDS.chain[4].verb": {
+    "max": 1,
+    "text": "awaken"
+  },
+  "bonds.BONDS.chain[5].noun": {
+    "max": 1,
+    "text": "Memory"
+  },
+  "bonds.BONDS.chain[5].verb": {
+    "max": 1,
+    "text": "emerges"
+  },
+  "bonds.BONDS.holds[0]": {
+    "max": 4,
+    "text": "Across all these layers,"
+  },
+  "bonds.BONDS.holds[1]": {
+    "max": 3,
+    "text": "one truth holds:"
+  },
+  "bonds.BONDS.woven[0]": {
+    "max": 1,
+    "text": "connection"
+  },
+  "bonds.BONDS.woven[1]": {
+    "max": 1,
+    "text": "collaboration"
+  },
+  "bonds.BONDS.woven[2]": {
+    "max": 4,
+    "text": "response to one another"
+  },
+  "bonds.BONDS.shape": {
+    "max": 4,
+    "text": "are what shape reality."
+  },
+  "bonds.BONDS.close.lines[0]": {
+    "max": 6,
+    "text": "From the quantum to the cosmic,"
+  },
+  "bonds.BONDS.close.lines[1]": {
+    "max": 7,
+    "text": "we are always entangled in relation -"
+  },
+  "bonds.BONDS.close.land": {
+    "max": 3,
+    "text": "becoming through interaction."
+  },
+  "childhood.CHILDHOOD.eyebrow": {
+    "max": 1,
+    "text": "Childhood"
+  },
+  "childhood.CHILDHOOD.opening.lines[0]": {
+    "max": 10,
+    "text": "Every child is born a scientist. Curious. Fearless. Always asking,"
+  },
+  "childhood.CHILDHOOD.opening.land": {
+    "max": 1,
+    "text": "Why?"
+  },
+  "childhood.CHILDHOOD.wonder[0]": {
+    "max": 8,
+    "text": "Before they learn facts, they learn through wonder."
+  },
+  "childhood.CHILDHOOD.thousand[0]": {
+    "max": 6,
+    "text": "They can name a thousand Pokémon."
+  },
+  "childhood.CHILDHOOD.thousand[1]": {
+    "max": 6,
+    "text": "Walk with dinosaurs across lost worlds."
+  },
+  "childhood.CHILDHOOD.thousand[2]": {
+    "max": 5,
+    "text": "Remember every story they love."
+  },
+  "childhood.CHILDHOOD.stack[0].text": {
+    "max": 3,
+    "text": "Stories are remembered."
+  },
+  "childhood.CHILDHOOD.stack[1].text": {
+    "max": 6,
+    "text": "As characters. As friendships. As feelings."
+  },
+  "childhood.CHILDHOOD.transforms": {
+    "max": 25,
+    "text": "Elementoro transforms the hidden patterns of the universe - chemistry, physics, biology, geology, and more - into an adventure children can see, feel, and imagine."
+  },
+  "childhood.CHILDHOOD.patterns[0]": {
+    "max": 5,
+    "text": "From stars to our hearts,"
+  },
+  "childhood.CHILDHOOD.patterns[1]": {
+    "max": 5,
+    "text": "the universe repeats its patterns"
+  },
+  "childhood.CHILDHOOD.patterns[2]": {
+    "max": 3,
+    "text": "again and again."
+  },
+  "childhood.CHILDHOOD.itself.lines[0]": {
+    "max": 15,
+    "text": "And now, after billions of years, the universe has become able to wonder about itself-"
+  },
+  "childhood.CHILDHOOD.itself.land": {
+    "max": 4,
+    "text": "through you and me."
+  },
+  "childhood.CHILDHOOD.remembering.lines[0]": {
+    "max": 3,
+    "text": "The Great Remembering"
+  },
+  "childhood.CHILDHOOD.remembering.land": {
+    "max": 2,
+    "text": "has begun."
+  },
+  "childhood.CHILDHOOD.requirement": {
+    "max": 10,
+    "text": "The only requirement to join the adventure is boundless imagination."
+  },
+  "closing.FOOTER.wordmark": {
+    "max": 1,
+    "text": "ELEMENTORO"
+  },
+  "closing.FOOTER.line": {
+    "max": 4,
+    "text": "© 2026 NankiBai Ltd"
+  },
+  "closing.FOOTER.links[0].label": {
+    "max": 2,
+    "text": "Prime Table"
+  },
+  "closing.FOOTER.strands[0].label": {
+    "max": 2,
+    "text": "The Story"
+  },
+  "closing.FOOTER.strands[1].label": {
+    "max": 2,
+    "text": "The Deck"
+  },
+  "closing.FOOTER.strands[2].label": {
+    "max": 1,
+    "text": "118"
+  },
+  "closing.FOOTER.strands[3].label": {
+    "max": 2,
+    "text": "The Realms"
+  },
+  "closing.FOOTER.strands[4].label": {
+    "max": 1,
+    "text": "Possibilities"
+  },
+  "closing.INVITATION.eyebrow": {
+    "max": 3,
+    "text": "Enter the universe"
+  },
+  "closing.INVITATION.heading[0]": {
+    "max": 2,
+    "text": "118 Superheroes."
+  },
+  "closing.INVITATION.heading[1]": {
+    "max": 7,
+    "text": "A 4.1 Billion Year Journey to You."
+  },
+  "closing.INVITATION.heading[2]": {
+    "max": 2,
+    "text": "Infinite Possibilities."
+  },
+  "closing.INVITATION.stats[0].figure": {
+    "max": 1,
+    "text": "118"
+  },
+  "closing.INVITATION.stats[0].label": {
+    "max": 1,
+    "text": "Superheroes"
+  },
+  "closing.INVITATION.stats[1].figure": {
+    "max": 1,
+    "text": "4.1B"
+  },
+  "closing.INVITATION.stats[1].label": {
+    "max": 3,
+    "text": "Years to You"
+  },
+  "closing.INVITATION.stats[2].figure": {
+    "max": 1,
+    "text": "Infinite"
+  },
+  "closing.INVITATION.stats[2].label": {
+    "max": 1,
+    "text": "Possibilities"
+  },
+  "closing.MADE_OF.heading[0]": {
+    "max": 5,
+    "text": "Every one of them real."
+  },
+  "closing.MADE_OF.heading[1]": {
+    "max": 5,
+    "text": "Every power they carry, true."
+  },
+  "closing.MADE_OF.lines[0]": {
+    "max": 37,
+    "text": "You are made of Carbon, Oxygen, Hydrogen, Nitrogen, Calcium, and Iron. The air you breathe is Nitrogen and Oxygen. The water you drink is Hydrogen and Oxygen. The ground beneath your feet is Silicon, Aluminium, and Iron."
+  },
+  "closing.MADE_OF.lines[1]": {
+    "max": 54,
+    "text": "Everything in the known universe, every star, every ocean, every living creature, is made from the same 118 elements. The nature of every element is decided by the arrangement of electrons moving through its outermost shell. That single, elegant pattern decides whether an element shares or takes, builds or transforms, bonds or drifts alone."
+  },
+  "closing.MAKERS.eyebrow": {
+    "max": 4,
+    "text": "You are invited by"
+  },
+  "closing.MAKERS.heading": {
+    "max": 8,
+    "text": "Artist and Scientist: A Shared Vision of Wonder"
+  },
+  "closing.MAKERS.people[0].name": {
+    "max": 2,
+    "text": "Sheefali Asija"
+  },
+  "closing.MAKERS.people[0].role": {
+    "max": 1,
+    "text": "Artist"
+  },
+  "closing.MAKERS.people[0].bio": {
+    "max": 38,
+    "text": "Sheefali Asija is an interdisciplinary artist whose work bridges science, myth, and humanity. Elementoro grows from a profound love of science and storytelling, and from a personal legacy shaped by resilience, wonder, and the enduring power of love."
+  },
+  "closing.MAKERS.people[1].name": {
+    "max": 4,
+    "text": "Dame Clare Grey FRS"
+  },
+  "closing.MAKERS.people[1].role": {
+    "max": 1,
+    "text": "Scientist"
+  },
+  "closing.MAKERS.people[1].bio": {
+    "max": 35,
+    "text": "Dame Clare Grey, Professor of Chemistry at the University of Cambridge and Fellow of the Royal Society, is the scientific authority behind the Elementoro universe, driven by one belief: science must serve all human beings."
+  },
+  "closing.PARTNERS.eyebrow": {
+    "max": 3,
+    "text": "First School Partnership"
+  },
+  "closing.PARTNERS.heading[0]": {
+    "max": 4,
+    "text": "One Living Storytelling Universe."
+  },
+  "closing.PARTNERS.heading[1]": {
+    "max": 2,
+    "text": "Infinite Potential."
+  },
+  "closing.PARTNERS.strands[0]": {
+    "max": 1,
+    "text": "Education"
+  },
+  "closing.PARTNERS.strands[1]": {
+    "max": 1,
+    "text": "Publishing"
+  },
+  "closing.PARTNERS.strands[2]": {
+    "max": 6,
+    "text": "Games, Digital and Board and Card"
+  },
+  "closing.PARTNERS.strands[3]": {
+    "max": 1,
+    "text": "Merchandising"
+  },
+  "closing.PARTNERS.school.label": {
+    "max": 3,
+    "text": "Founding Partner School"
+  },
+  "closing.PARTNERS.school.place": {
+    "max": 1,
+    "text": "Cambridge"
+  },
+  "closing.PARTNERS.school.name": {
+    "max": 5,
+    "text": "The Stephen Perse Junior School"
+  },
+  "closing.PARTNERS.school.attribution": {
+    "max": 3,
+    "text": "David Hewlett, Principal"
+  },
+  "closing.PARTNERS.school.note": {
+    "max": 33,
+    "text": "The Stephen Perse Junior School is the first school in the world to embed Elementoro across its curriculum, bringing the Quantum Tower into its outdoor space and the 118 superheroes into every classroom."
+  },
+  "gallery.GALLERY[0].name": {
+    "max": 1,
+    "text": "Hydrogen"
+  },
+  "gallery.GALLERY[0].title": {
+    "max": 4,
+    "text": "The Hummingbird of Starlight"
+  },
+  "gallery.GALLERY[1].name": {
+    "max": 1,
+    "text": "Helium"
+  },
+  "gallery.GALLERY[1].title": {
+    "max": 5,
+    "text": "The Drifter of Unbound Sky"
+  },
+  "gallery.GALLERY[2].name": {
+    "max": 1,
+    "text": "Oxygen"
+  },
+  "gallery.GALLERY[2].title": {
+    "max": 6,
+    "text": "The Phoenix of Breath & Flame"
+  },
+  "gallery.GALLERY[3].name": {
+    "max": 1,
+    "text": "Iron"
+  },
+  "gallery.GALLERY[3].title": {
+    "max": 4,
+    "text": "The Tiger of World-Heart"
+  },
+  "gallery.GALLERY[4].name": {
+    "max": 1,
+    "text": "Neodymium"
+  },
+  "gallery.GALLERY[4].title": {
+    "max": 6,
+    "text": "The Howler Monkey of Invisible Force"
+  },
+  "gallery.GALLERY[5].name": {
+    "max": 1,
+    "text": "Uranium"
+  },
+  "gallery.GALLERY[5].title": {
+    "max": 6,
+    "text": "The Bornean Orangutan of Split Suns"
+  },
+  "hundred18.BEATS[0].cards[0]": {
+    "max": 1,
+    "text": "hy"
+  },
+  "hundred18.BEATS[0].line": {
+    "max": 11,
+    "text": "Hy races through the realms chasing mysteries no one else notices."
+  },
+  "hundred18.BEATS[1].cards[0]": {
+    "max": 1,
+    "text": "oxy"
+  },
+  "hundred18.BEATS[1].line": {
+    "max": 11,
+    "text": "Oxy burns fierce but fears the fire inside her own heart."
+  },
+  "hundred18.BEATS[2].cards[0]": {
+    "max": 1,
+    "text": "carr"
+  },
+  "hundred18.BEATS[2].line": {
+    "max": 13,
+    "text": "Carr shifts through endless forms, never fully certain which one is truly hers."
+  },
+  "hundred18.BEATS[3].cards[0]": {
+    "max": 1,
+    "text": "heli"
+  },
+  "hundred18.BEATS[3].line": {
+    "max": 10,
+    "text": "Heli floats calmly above the chaos, hiding loneliness behind amusement."
+  },
+  "hundred18.BEATS[4].cards[0]": {
+    "max": 1,
+    "text": "so"
+  },
+  "hundred18.BEATS[4].line": {
+    "max": 12,
+    "text": "So burns bright and gives everything he has to anyone who asks."
+  },
+  "hundred18.BEATS[5].cards[0]": {
+    "max": 1,
+    "text": "mag"
+  },
+  "hundred18.BEATS[5].cards[1]": {
+    "max": 1,
+    "text": "iro"
+  },
+  "hundred18.BEATS[5].cards[2]": {
+    "max": 1,
+    "text": "cop"
+  },
+  "hundred18.BEATS[5].line": {
+    "max": 17,
+    "text": "Mag holds the world together, while Iro and Cop are moving, building, and connecting realm to realm."
+  },
+  "hundred18.BEATS[6].cards[0]": {
+    "max": 1,
+    "text": "ura"
+  },
+  "hundred18.BEATS[6].line": {
+    "max": 16,
+    "text": "And deep underground, Ura glows quietly in the dark, carrying memories older than the realms themselves."
+  },
+  "hundred18.INTRO.label": {
+    "max": 2,
+    "text": "The 118"
+  },
+  "hundred18.INTRO.lead": {
+    "max": 8,
+    "text": "The story of 118 starts with a few."
+  },
+  "hundred18.NAMES[0]": {
+    "max": 1,
+    "text": "Hy"
+  },
+  "hundred18.NAMES[1]": {
+    "max": 1,
+    "text": "Oxy"
+  },
+  "hundred18.NAMES[2]": {
+    "max": 1,
+    "text": "Carr"
+  },
+  "hundred18.NAMES[3]": {
+    "max": 1,
+    "text": "Heli"
+  },
+  "hundred18.NAMES[4]": {
+    "max": 1,
+    "text": "So"
+  },
+  "hundred18.NAMES[5]": {
+    "max": 1,
+    "text": "Mag"
+  },
+  "hundred18.NAMES[6]": {
+    "max": 1,
+    "text": "Iro"
+  },
+  "hundred18.NAMES[7]": {
+    "max": 1,
+    "text": "Cop"
+  },
+  "hundred18.NAMES[8]": {
+    "max": 1,
+    "text": "Ura"
+  },
+  "hundred18.OUTRO.lead": {
+    "max": 18,
+    "text": "Every character carries extraordinary powers, dangerous weaknesses, ancient histories - and secrets even they do not fully understand."
+  },
+  "hundred18.OUTRO.carry[0].text": {
+    "max": 3,
+    "text": "Every character carries "
+  },
+  "hundred18.OUTRO.carry[1].text": {
+    "max": 2,
+    "text": "extraordinary powers"
+  },
+  "hundred18.OUTRO.carry[2].text": {
+    "max": 1,
+    "text": ", "
+  },
+  "hundred18.OUTRO.carry[3].text": {
+    "max": 2,
+    "text": "dangerous weaknesses"
+  },
+  "hundred18.OUTRO.carry[4].text": {
+    "max": 1,
+    "text": ", "
+  },
+  "hundred18.OUTRO.carry[5].text": {
+    "max": 2,
+    "text": "ancient histories"
+  },
+  "hundred18.OUTRO.carry[6].text": {
+    "max": 2,
+    "text": " - and "
+  },
+  "hundred18.OUTRO.carry[7].text": {
+    "max": 7,
+    "text": "secrets even they do not fully understand"
+  },
+  "hundred18.OUTRO.carry[8].text": {
+    "max": 1,
+    "text": "."
+  },
+  "hundred18.OUTRO.powers[0].line": {
+    "max": 4,
+    "text": "Some can summon storms."
+  },
+  "hundred18.OUTRO.powers[0].title": {
+    "max": 5,
+    "text": "The Stormrunner of Living Thunder"
+  },
+  "hundred18.OUTRO.powers[0].element": {
+    "max": 1,
+    "text": "Potassium"
+  },
+  "hundred18.OUTRO.powers[1].line": {
+    "max": 9,
+    "text": "Some can shape metal or crystal with a touch."
+  },
+  "hundred18.OUTRO.powers[1].title": {
+    "max": 5,
+    "text": "The Gecko of Crystal Circuits"
+  },
+  "hundred18.OUTRO.powers[1].element": {
+    "max": 1,
+    "text": "Silicon"
+  },
+  "hundred18.OUTRO.powers[2].line": {
+    "max": 8,
+    "text": "Some burn bright enough to ignite entire cities."
+  },
+  "hundred18.OUTRO.powers[2].title": {
+    "max": 5,
+    "text": "The Scorpion of Burning Stone"
+  },
+  "hundred18.OUTRO.powers[2].element": {
+    "max": 1,
+    "text": "Sulphur"
+  },
+  "hundred18.OUTRO.powers[3].line": {
+    "max": 20,
+    "text": "Others can vanish into silence, drift untouched through the skies, or dive deep beneath the fractured core of the world."
+  },
+  "hundred18.OUTRO.powers[3].title": {
+    "max": 5,
+    "text": "The Leopard of Silent Heights"
+  },
+  "hundred18.OUTRO.powers[3].element": {
+    "max": 1,
+    "text": "Argon"
+  },
+  "hundred18.WHO.hy.name": {
+    "max": 1,
+    "text": "Hy"
+  },
+  "hundred18.WHO.oxy.name": {
+    "max": 1,
+    "text": "Oxy"
+  },
+  "hundred18.WHO.carr.name": {
+    "max": 1,
+    "text": "Carr"
+  },
+  "hundred18.WHO.heli.name": {
+    "max": 1,
+    "text": "Heli"
+  },
+  "hundred18.WHO.so.name": {
+    "max": 1,
+    "text": "So"
+  },
+  "hundred18.WHO.mag.name": {
+    "max": 1,
+    "text": "Mag"
+  },
+  "hundred18.WHO.iro.name": {
+    "max": 1,
+    "text": "Iro"
+  },
+  "hundred18.WHO.cop.name": {
+    "max": 1,
+    "text": "Cop"
+  },
+  "hundred18.WHO.ura.name": {
+    "max": 1,
+    "text": "Ura"
+  },
+  "interstitial.REALMS_INTRO.heading": {
+    "max": 3,
+    "text": "The Fractured Realms"
+  },
+  "interstitial.REALMS_INTRO.line": {
+    "max": 17,
+    "text": "Across the six realms, the 118 find themselves drawn into strange mysteries, buried histories, and impossible choices."
+  },
+  "interstitial.TRUTH.eyebrow": {
+    "max": 3,
+    "text": "The truth beneath"
+  },
+  "interstitial.TRUTH.heading[0]": {
+    "max": 9,
+    "text": "As the 118 race to heal what was broken,"
+  },
+  "interstitial.TRUTH.heading[1]": {
+    "max": 7,
+    "text": "they must uncover why the world chose"
+  },
+  "interstitial.TRUTH.heading[2]": {
+    "max": 7,
+    "text": "to forget where it came from -"
+  },
+  "interstitial.TRUTH.lines[0]": {
+    "max": 7,
+    "text": "And what came before the Great Fracturing?"
+  },
+  "interstitial.TRUTH.lines[1]": {
+    "max": 14,
+    "text": "And discover the truth that connection itself may be the oldest force in existence."
+  },
+  "interstitial.TRUTH.laws[0]": {
+    "max": 18,
+    "text": "Every reaction, whether of love or loss, obeys the same law. Nothing truly ends. It only changes form."
+  },
+  "interstitial.TRUTH.laws[1]": {
+    "max": 7,
+    "text": "Connection, not perfection, keeps the universe alive."
+  },
+  "madeof.MADE_OF.signs": {
+    "max": 3,
+    "text": "The science behind"
+  },
+  "madeof.MADE_OF.eyebrow": {
+    "max": 5,
+    "text": "What are you made of?"
+  },
+  "madeof.MADE_OF.stack[0].lead": {
+    "max": 4,
+    "text": "You are made of"
+  },
+  "madeof.MADE_OF.stack[0].parts[0]": {
+    "max": 1,
+    "text": "Carbon"
+  },
+  "madeof.MADE_OF.stack[0].parts[1]": {
+    "max": 1,
+    "text": "Oxygen"
+  },
+  "madeof.MADE_OF.stack[0].parts[2]": {
+    "max": 1,
+    "text": "Hydrogen"
+  },
+  "madeof.MADE_OF.stack[0].parts[3]": {
+    "max": 1,
+    "text": "Nitrogen"
+  },
+  "madeof.MADE_OF.stack[0].parts[4]": {
+    "max": 1,
+    "text": "Calcium"
+  },
+  "madeof.MADE_OF.stack[0].parts[5]": {
+    "max": 1,
+    "text": "Iron"
+  },
+  "madeof.MADE_OF.stack[1].lead": {
+    "max": 5,
+    "text": "The air you breathe is"
+  },
+  "madeof.MADE_OF.stack[1].parts[0]": {
+    "max": 1,
+    "text": "Nitrogen"
+  },
+  "madeof.MADE_OF.stack[1].parts[1]": {
+    "max": 1,
+    "text": "Oxygen"
+  },
+  "madeof.MADE_OF.stack[2].lead": {
+    "max": 5,
+    "text": "The water you drink is"
+  },
+  "madeof.MADE_OF.stack[2].parts[0]": {
+    "max": 1,
+    "text": "Hydrogen"
+  },
+  "madeof.MADE_OF.stack[2].parts[1]": {
+    "max": 1,
+    "text": "Oxygen"
+  },
+  "madeof.MADE_OF.stack[3].lead": {
+    "max": 6,
+    "text": "The ground beneath your feet is"
+  },
+  "madeof.MADE_OF.stack[3].parts[0]": {
+    "max": 1,
+    "text": "Silicon"
+  },
+  "madeof.MADE_OF.stack[3].parts[1]": {
+    "max": 1,
+    "text": "Aluminium"
+  },
+  "madeof.MADE_OF.stack[3].parts[2]": {
+    "max": 1,
+    "text": "Iron"
+  },
+  "madeof.MADE_OF.thought.lines[0]": {
+    "max": 5,
+    "text": "The thought you just had?"
+  },
+  "madeof.MADE_OF.thought.land": {
+    "max": 5,
+    "text": "It was made of these."
+  },
+  "madeof.MADE_OF.nerve[0].tag": {
+    "max": 1,
+    "text": "So"
+  },
+  "madeof.MADE_OF.nerve[0].role": {
+    "max": 4,
+    "text": "the spark that fires"
+  },
+  "madeof.MADE_OF.nerve[0].face": {
+    "max": 1,
+    "text": "011"
+  },
+  "madeof.MADE_OF.nerve[1].tag": {
+    "max": 1,
+    "text": "K"
+  },
+  "madeof.MADE_OF.nerve[1].role": {
+    "max": 4,
+    "text": "the spark that resets"
+  },
+  "madeof.MADE_OF.nerve[1].face": {
+    "max": 1,
+    "text": "019"
+  },
+  "madeof.MADE_OF.nerve[2].tag": {
+    "max": 1,
+    "text": "Ca"
+  },
+  "madeof.MADE_OF.nerve[2].role": {
+    "max": 5,
+    "text": "opens the gate between neurons"
+  },
+  "madeof.MADE_OF.nerve[2].face": {
+    "max": 1,
+    "text": "020"
+  },
+  "madeof.MADE_OF.nerve[3].tag": {
+    "max": 1,
+    "text": "Cl"
+  },
+  "madeof.MADE_OF.nerve[3].role": {
+    "max": 4,
+    "text": "quiets the signal again"
+  },
+  "madeof.MADE_OF.nerve[3].face": {
+    "max": 1,
+    "text": "017"
+  },
+  "madeof.MADE_OF.nerve[4].tag": {
+    "max": 1,
+    "text": "Mag"
+  },
+  "madeof.MADE_OF.nerve[4].role": {
+    "max": 4,
+    "text": "guards the memory gate"
+  },
+  "madeof.MADE_OF.nerve[4].face": {
+    "max": 1,
+    "text": "012"
+  },
+  "madeof.MADE_OF.nerve[5].tag": {
+    "max": 1,
+    "text": "P"
+  },
+  "madeof.MADE_OF.nerve[5].role": {
+    "max": 4,
+    "text": "pays for every firing"
+  },
+  "madeof.MADE_OF.nerve[5].face": {
+    "max": 1,
+    "text": "015"
+  },
+  "madeof.MADE_OF.nerve[6].tag": {
+    "max": 1,
+    "text": "Carr"
+  },
+  "madeof.MADE_OF.nerve[6].role": {
+    "max": 3,
+    "text": "builds the messenger"
+  },
+  "madeof.MADE_OF.nerve[6].face": {
+    "max": 1,
+    "text": "006"
+  },
+  "madeof.MADE_OF.nerve[7].tag": {
+    "max": 1,
+    "text": "Hy"
+  },
+  "madeof.MADE_OF.nerve[7].role": {
+    "max": 3,
+    "text": "holds it together"
+  },
+  "madeof.MADE_OF.nerve[7].face": {
+    "max": 1,
+    "text": "001"
+  },
+  "madeof.MADE_OF.nerve[8].tag": {
+    "max": 1,
+    "text": "Oxy"
+  },
+  "madeof.MADE_OF.nerve[8].role": {
+    "max": 3,
+    "text": "burns the fuel"
+  },
+  "madeof.MADE_OF.nerve[8].face": {
+    "max": 1,
+    "text": "008"
+  },
+  "madeof.MADE_OF.nerve[9].tag": {
+    "max": 1,
+    "text": "Iro"
+  },
+  "madeof.MADE_OF.nerve[9].role": {
+    "max": 5,
+    "text": "carries oxygen to the thinking"
+  },
+  "madeof.MADE_OF.nerve[9].face": {
+    "max": 1,
+    "text": "026"
+  },
+  "madeof.MADE_OF.nerveNote.label": {
+    "max": 3,
+    "text": "The science behind"
+  },
+  "madeof.MADE_OF.nerveNote.body": {
+    "max": 22,
+    "text": "Sodium rushes in, potassium rushes out, and the wave moves down the nerve. Calcium opens the gate so the message can cross. "
+  },
+  "madeof.MADE_OF.nerveNote.strong": {
+    "max": 18,
+    "text": "Magnesium sits on the door where memories are made, standing aside only when the signal is worth keeping."
+  },
+  "madeof.MADE_OF.feeling.lines[0]": {
+    "max": 3,
+    "text": "Love. Fear. Peace."
+  },
+  "madeof.MADE_OF.feeling.land": {
+    "max": 4,
+    "text": "Also made of these."
+  },
+  "madeof.MADE_OF.heart[0].tag": {
+    "max": 1,
+    "text": "S"
+  },
+  "madeof.MADE_OF.heart[0].role": {
+    "max": 5,
+    "text": "closes the ring in oxytocin"
+  },
+  "madeof.MADE_OF.heart[0].face": {
+    "max": 1,
+    "text": "016"
+  },
+  "madeof.MADE_OF.heart[1].tag": {
+    "max": 1,
+    "text": "N"
+  },
+  "madeof.MADE_OF.heart[1].role": {
+    "max": 5,
+    "text": "at the heart of dopamine"
+  },
+  "madeof.MADE_OF.heart[1].face": {
+    "max": 1,
+    "text": "007"
+  },
+  "madeof.MADE_OF.heart[2].tag": {
+    "max": 1,
+    "text": "Carr"
+  },
+  "madeof.MADE_OF.heart[2].role": {
+    "max": 5,
+    "text": "the backbone of them all"
+  },
+  "madeof.MADE_OF.heart[2].face": {
+    "max": 1,
+    "text": "006"
+  },
+  "madeof.MADE_OF.heart[3].tag": {
+    "max": 1,
+    "text": "Hy"
+  },
+  "madeof.MADE_OF.heart[3].role": {
+    "max": 3,
+    "text": "holds the shape"
+  },
+  "madeof.MADE_OF.heart[3].face": {
+    "max": 1,
+    "text": "001"
+  },
+  "madeof.MADE_OF.heart[4].tag": {
+    "max": 1,
+    "text": "Oxy"
+  },
+  "madeof.MADE_OF.heart[4].role": {
+    "max": 3,
+    "text": "in every feeling"
+  },
+  "madeof.MADE_OF.heart[4].face": {
+    "max": 1,
+    "text": "008"
+  },
+  "madeof.MADE_OF.heart[5].tag": {
+    "max": 1,
+    "text": "Cl"
+  },
+  "madeof.MADE_OF.heart[5].role": {
+    "max": 5,
+    "text": "floods the calm of GABA"
+  },
+  "madeof.MADE_OF.heart[5].face": {
+    "max": 1,
+    "text": "017"
+  },
+  "madeof.MADE_OF.heart[6].tag": {
+    "max": 1,
+    "text": "Iro"
+  },
+  "madeof.MADE_OF.heart[6].role": {
+    "max": 4,
+    "text": "floods muscle with fear"
+  },
+  "madeof.MADE_OF.heart[6].face": {
+    "max": 1,
+    "text": "026"
+  },
+  "madeof.MADE_OF.heart[7].tag": {
+    "max": 1,
+    "text": "Mag"
+  },
+  "madeof.MADE_OF.heart[7].role": {
+    "max": 3,
+    "text": "steadies what races"
+  },
+  "madeof.MADE_OF.heart[7].face": {
+    "max": 1,
+    "text": "012"
+  },
+  "madeof.MADE_OF.heart[8].tag": {
+    "max": 1,
+    "text": "Cu"
+  },
+  "madeof.MADE_OF.heart[8].role": {
+    "max": 4,
+    "text": "builds the fear molecule"
+  },
+  "madeof.MADE_OF.heart[8].face": {
+    "max": 1,
+    "text": "029"
+  },
+  "madeof.MADE_OF.heart[9].tag": {
+    "max": 1,
+    "text": "Zn"
+  },
+  "madeof.MADE_OF.heart[9].role": {
+    "max": 3,
+    "text": "tunes the signal"
+  },
+  "madeof.MADE_OF.heart[9].face": {
+    "max": 1,
+    "text": "030"
+  },
+  "madeof.MADE_OF.heartNote.label": {
+    "max": 3,
+    "text": "The science behind"
+  },
+  "madeof.MADE_OF.heartNote.strong": {
+    "max": 19,
+    "text": "Oxytocin - the molecule of bonding - is a ring held shut by a bridge of two sulfur atoms."
+  },
+  "madeof.MADE_OF.heartNote.body": {
+    "max": 35,
+    "text": " Fear is adrenaline in the blood and iron hauling oxygen to the muscles. Peace is chloride pouring through a channel until the noise falls quiet. Every feeling you have ever had was elements, arranged, responding."
+  },
+  "madeof.MADE_OF.everything.lines[0]": {
+    "max": 17,
+    "text": "Everything in the known universe - every star, every ocean, every living creature - is made from"
+  },
+  "madeof.MADE_OF.everything.land": {
+    "max": 4,
+    "text": "the same 118 elements."
+  },
+  "madeof.MADE_OF.shell": {
+    "max": 17,
+    "text": "The nature of every element is decided by the arrangement of electrons moving through its outermost shell."
+  },
+  "madeof.MADE_OF.decides[0]": {
+    "max": 5,
+    "text": "That single, elegant pattern decides"
+  },
+  "madeof.MADE_OF.decides[1]": {
+    "max": 3,
+    "text": "whether an element"
+  },
+  "madeof.MADE_OF.woven[0]": {
+    "max": 3,
+    "text": "shares or takes"
+  },
+  "madeof.MADE_OF.woven[1]": {
+    "max": 3,
+    "text": "builds or transforms"
+  },
+  "madeof.MADE_OF.woven[2]": {
+    "max": 4,
+    "text": "bonds or drifts alone"
+  },
+  "prologue.PROLOGUE[0].blocks[0].text": {
+    "max": 3,
+    "text": "The Oldest Stories"
+  },
+  "prologue.PROLOGUE[0].blocks[1].text": {
+    "max": 6,
+    "text": "speak of a time before memory."
+  },
+  "prologue.PROLOGUE[0].blocks[2].text": {
+    "max": 4,
+    "text": "A time before kingdoms."
+  },
+  "prologue.PROLOGUE[0].blocks[3].text": {
+    "max": 2,
+    "text": "Before heroes."
+  },
+  "prologue.PROLOGUE[0].blocks[4].text": {
+    "max": 6,
+    "text": "Before the first journey ever began."
+  },
+  "prologue.PROLOGUE[0].blocks[5].text": {
+    "max": 5,
+    "text": "There was The Prime Table."
+  },
+  "prologue.PROLOGUE[0].blocks[6].text": {
+    "max": 9,
+    "text": "The first pattern from which all others were born."
+  },
+  "prologue.PROLOGUE[0].blocks[7].text": {
+    "max": 3,
+    "text": "Ancient beyond imagining."
+  },
+  "prologue.PROLOGUE[0].blocks[8].text": {
+    "max": 3,
+    "text": "Vast beyond measure."
+  },
+  "prologue.PROLOGUE[0].blocks[9].text": {
+    "max": 4,
+    "text": "Stretching across the darkness,"
+  },
+  "prologue.PROLOGUE[0].blocks[10].text": {
+    "max": 3,
+    "text": "Content and dreaming."
+  },
+  "prologue.PROLOGUE[1].blocks[0].text": {
+    "max": 2,
+    "text": "The Fracturing"
+  },
+  "prologue.PROLOGUE[1].blocks[1].text": {
+    "max": 5,
+    "text": "Then - in a moment"
+  },
+  "prologue.PROLOGUE[1].blocks[2].text": {
+    "max": 10,
+    "text": "for which there are no records, no stories, no memories."
+  },
+  "prologue.PROLOGUE[1].blocks[3].text": {
+    "max": 2,
+    "text": "it shattered."
+  },
+  "prologue.PROLOGUE[1].blocks[4].text": {
+    "max": 4,
+    "text": "The realms were born."
+  },
+  "prologue.PROLOGUE[1].blocks[5].text": {
+    "max": 5,
+    "text": "Ages rolled across the world."
+  },
+  "prologue.PROLOGUE[1].blocks[6].text": {
+    "max": 2,
+    "text": "Ancients rose."
+  },
+  "prologue.PROLOGUE[1].blocks[7].text": {
+    "max": 2,
+    "text": "Gods walked."
+  },
+  "prologue.PROLOGUE[1].blocks[8].text": {
+    "max": 2,
+    "text": "Heroes fell."
+  },
+  "prologue.PROLOGUE[1].blocks[9].text": {
+    "max": 3,
+    "text": "Stories became legends."
+  },
+  "prologue.PROLOGUE[1].blocks[10].text": {
+    "max": 3,
+    "text": "Legends became myths."
+  },
+  "prologue.PROLOGUE[1].blocks[11].text": {
+    "max": 3,
+    "text": "Myths became whispers."
+  },
+  "prologue.PROLOGUE[1].blocks[12].text": {
+    "max": 8,
+    "text": "Until the Universe forgot - its own story."
+  },
+  "prologue.PROLOGUE[2].blocks[0].text": {
+    "max": 3,
+    "text": "The Great Forgetting."
+  },
+  "prologue.PROLOGUE[2].blocks[1].text": {
+    "max": 4,
+    "text": "Forgot the Great Fracturing."
+  },
+  "prologue.PROLOGUE[2].blocks[2].text": {
+    "max": 4,
+    "text": "The Fracturing of Realms,"
+  },
+  "prologue.PROLOGUE[2].blocks[3].text": {
+    "max": 7,
+    "text": "an event lost in the deep past."
+  },
+  "prologue.PROLOGUE[2].blocks[4].text": {
+    "max": 5,
+    "text": "No one knows it happened."
+  },
+  "prologue.PROLOGUE[2].blocks[5].text": {
+    "max": 6,
+    "text": "No one knows what came before."
+  },
+  "prologue.PROLOGUE[2].blocks[6].text": {
+    "max": 6,
+    "text": "Recently, deep beneath the fractured valleys,"
+  },
+  "prologue.PROLOGUE[2].blocks[7].text": {
+    "max": 8,
+    "text": "whispers are beginning to move through the stillness."
+  },
+  "prologue.PROLOGUE[2].blocks[8].text": {
+    "max": 5,
+    "text": "Impossible is slipping into reality."
+  },
+  "prologue.PROLOGUE[2].blocks[9].text": {
+    "max": 7,
+    "text": "Crystal towers rise and vanish before dawn."
+  },
+  "prologue.PROLOGUE[2].blocks[10].text": {
+    "max": 6,
+    "text": "Lightning storms awaken strange new powers."
+  },
+  "prologue.PROLOGUE[2].blocks[11].text": {
+    "max": 5,
+    "text": "Rivers reshape the land overnight."
+  },
+  "prologue.PROLOGUE[2].blocks[12].text": {
+    "max": 4,
+    "text": "Impossible coincidences become common."
+  },
+  "prologue.PROLOGUE[2].blocks[13].text": {
+    "max": 7,
+    "text": "Ancient symbols appear in crystal and stone."
+  },
+  "prologue.PROLOGUE[2].blocks[14].text": {
+    "max": 5,
+    "text": "Old divisions lose their certainty."
+  },
+  "prologue.PROLOGUE[2].blocks[15].text": {
+    "max": 11,
+    "text": "Lost songs are sung by those who have never heard them."
+  },
+  "prologue.PROLOGUE[2].blocks[16].text": {
+    "max": 6,
+    "text": "The old gods offer no answers."
+  },
+  "prologue.PROLOGUE[2].blocks[17].text": {
+    "max": 4,
+    "text": "Only their whispers remain."
+  },
+  "prologue.PROLOGUE[2].blocks[18].text": {
+    "max": 6,
+    "text": "They speak of The Great Remembering."
+  },
+  "prologue.PROLOGUE[2].blocks[19].text": {
+    "max": 5,
+    "text": "They speak of the Ancients."
+  },
+  "prologue.PROLOGUE[2].blocks[20].text": {
+    "max": 4,
+    "text": "And through the stillness,"
+  },
+  "prologue.PROLOGUE[2].blocks[21].text": {
+    "max": 8,
+    "text": "a voice speaks for the very first time."
+  },
+  "prologue.PROLOGUE[2].blocks[22].text": {
+    "max": 3,
+    "text": "It calls itself…"
+  },
+  "prologue.PROLOGUE[2].blocks[23].text": {
+    "max": 1,
+    "text": "Awareness."
+  },
+  "quantum.QUANTUM.eyebrow": {
+    "max": 3,
+    "text": "The Quantum Code"
+  },
+  "quantum.QUANTUM.heading[0]": {
+    "max": 6,
+    "text": "The quest to understand the universe"
+  },
+  "quantum.QUANTUM.heading[1]": {
+    "max": 5,
+    "text": "is ultimately to understand ourselves."
+  },
+  "quantum.QUANTUM.quiet": {
+    "max": 10,
+    "text": "For thousands of years we searched the stars for answers."
+  },
+  "quantum.QUANTUM.mystery.lines[0]": {
+    "max": 3,
+    "text": "The greatest mystery"
+  },
+  "quantum.QUANTUM.mystery.land": {
+    "max": 4,
+    "text": "was never out there."
+  },
+  "quantum.QUANTUM.hidden[0]": {
+    "max": 9,
+    "text": "It is hidden within the fabric of reality itself."
+  },
+  "quantum.QUANTUM.wovenLabel": {
+    "max": 4,
+    "text": "A code woven through"
+  },
+  "quantum.QUANTUM.woven[0]": {
+    "max": 1,
+    "text": "matter"
+  },
+  "quantum.QUANTUM.woven[1]": {
+    "max": 1,
+    "text": "life"
+  },
+  "quantum.QUANTUM.woven[2]": {
+    "max": 1,
+    "text": "memory"
+  },
+  "quantum.QUANTUM.woven[3]": {
+    "max": 1,
+    "text": "imagination"
+  },
+  "quantum.QUANTUM.aware.lines[0]": {
+    "max": 7,
+    "text": "A code that shapes how the universe"
+  },
+  "quantum.QUANTUM.aware.lines[1]": {
+    "max": 5,
+    "text": "builds worlds, tells stories —"
+  },
+  "quantum.QUANTUM.aware.land": {
+    "max": 5,
+    "text": "and becomes aware of itself."
+  },
+  "quantum.QUANTUM.setup[0]": {
+    "max": 19,
+    "text": "The code is the number of electrons found in the energy shells of an atom of the 118 elements."
+  },
+  "quantum.QUANTUM.claims[0]": {
+    "max": 7,
+    "text": "There can be only 7 energy shells."
+  },
+  "quantum.QUANTUM.claims[1]": {
+    "max": 20,
+    "text": "And the arrangement of electrons across the 7 can be only — 2, 8, 18, 18, 32, 32, 18, 8."
+  },
+  "quantum.QUANTUM.shellsCaption": {
+    "max": 8,
+    "text": "2, 8, 18, 18, 32, 32, 18, 8"
+  },
+  "quantum.QUANTUM.shellsChase": {
+    "max": 3,
+    "text": "the seven shells"
+  },
+  "quantum.QUANTUM.emerging.label": {
+    "max": 2,
+    "text": "Emerging Pattern"
+  },
+  "quantum.QUANTUM.emerging.steps[0].act": {
+    "max": 2,
+    "text": "Electrons bond"
+  },
+  "quantum.QUANTUM.emerging.steps[0].field": {
+    "max": 2,
+    "text": "Quantum physics"
+  },
+  "quantum.QUANTUM.emerging.steps[1].act": {
+    "max": 2,
+    "text": "Elements transform"
+  },
+  "quantum.QUANTUM.emerging.steps[1].field": {
+    "max": 2,
+    "text": "Chemistry, geology"
+  },
+  "quantum.QUANTUM.emerging.steps[2].act": {
+    "max": 2,
+    "text": "Proteins emerge"
+  },
+  "quantum.QUANTUM.emerging.steps[2].field": {
+    "max": 1,
+    "text": "Biology"
+  },
+  "quantum.QUANTUM.emerging.steps[3].act": {
+    "max": 2,
+    "text": "Life wonders"
+  },
+  "quantum.QUANTUM.emerging.steps[3].field": {
+    "max": 4,
+    "text": "Humanity, philosophy, history, art"
+  },
+  "quantum.TIMELINE.label": {
+    "max": 3,
+    "text": "The long search"
+  },
+  "quantum.TIMELINE.heading[0]": {
+    "max": 4,
+    "text": "A History of Pattern-Seeking"
+  },
+  "quantum.TIMELINE.steps[0].era": {
+    "max": 4,
+    "text": "Millions of years ago"
+  },
+  "quantum.TIMELINE.steps[0].body": {
+    "max": 7,
+    "text": "Patterns in stone, fire, stars, and matter."
+  },
+  "quantum.TIMELINE.steps[0].shape": {
+    "max": 1,
+    "text": "spiral"
+  },
+  "quantum.TIMELINE.steps[1].era": {
+    "max": 2,
+    "text": "600 BCE"
+  },
+  "quantum.TIMELINE.steps[1].who": {
+    "max": 1,
+    "text": "Kanada"
+  },
+  "quantum.TIMELINE.steps[1].body": {
+    "max": 5,
+    "text": "saw Anu, the invisible particle."
+  },
+  "quantum.TIMELINE.steps[1].shape": {
+    "max": 1,
+    "text": "orbits"
+  },
+  "quantum.TIMELINE.steps[2].era": {
+    "max": 2,
+    "text": "300 BCE"
+  },
+  "quantum.TIMELINE.steps[2].who": {
+    "max": 1,
+    "text": "Democritis"
+  },
+  "quantum.TIMELINE.steps[2].body": {
+    "max": 6,
+    "text": "gave us Atom, the indivisible particle."
+  },
+  "quantum.TIMELINE.steps[2].shape": {
+    "max": 1,
+    "text": "orbits"
+  },
+  "quantum.TIMELINE.steps[3].era": {
+    "max": 7,
+    "text": "Each adding a piece to the puzzle"
+  },
+  "quantum.TIMELINE.steps[3].shape": {
+    "max": 1,
+    "text": "flask"
+  },
+  "quantum.TIMELINE.steps[3].places[0].place": {
+    "max": 1,
+    "text": "Alexandria"
+  },
+  "quantum.TIMELINE.steps[3].places[0].who": {
+    "max": 3,
+    "text": "Alchemists in Alexandria"
+  },
+  "quantum.TIMELINE.steps[3].places[1].place": {
+    "max": 1,
+    "text": "Baghdad"
+  },
+  "quantum.TIMELINE.steps[3].places[1].who": {
+    "max": 3,
+    "text": "Scholars in Baghdad"
+  },
+  "quantum.TIMELINE.steps[3].places[2].place": {
+    "max": 1,
+    "text": "China"
+  },
+  "quantum.TIMELINE.steps[3].places[2].who": {
+    "max": 3,
+    "text": "Artisans in China"
+  },
+  "quantum.TIMELINE.steps[3].places[3].place": {
+    "max": 1,
+    "text": "Europe"
+  },
+  "quantum.TIMELINE.steps[3].places[3].who": {
+    "max": 3,
+    "text": "Scientists across Europe"
+  },
+  "quantum.TIMELINE.steps[4].era": {
+    "max": 1,
+    "text": "1869"
+  },
+  "quantum.TIMELINE.steps[4].who": {
+    "max": 2,
+    "text": "Dmitri Mendeleev"
+  },
+  "quantum.TIMELINE.steps[4].body": {
+    "max": 6,
+    "text": "sees the pattern of periodic table."
+  },
+  "quantum.TIMELINE.steps[4].shape": {
+    "max": 1,
+    "text": "grid"
+  },
+  "quantum.TIMELINE.steps[5].era": {
+    "max": 1,
+    "text": "Today"
+  },
+  "quantum.TIMELINE.steps[5].who": {
+    "max": 1,
+    "text": "Elementoro"
+  },
+  "quantum.TIMELINE.steps[5].body": {
+    "max": 8,
+    "text": "turns the table into a story telling Universe."
+  },
+  "quantum.TIMELINE.steps[5].shape": {
+    "max": 1,
+    "text": "shells"
+  },
+  "realms.REALMS[0].number": {
+    "max": 1,
+    "text": "01"
+  },
+  "realms.REALMS[0].name": {
+    "max": 1,
+    "text": "Nonaterra"
+  },
+  "realms.REALMS[0].epithet": {
+    "max": 3,
+    "text": "Realm of Life"
+  },
+  "realms.REALMS[0].lines[0]": {
+    "max": 26,
+    "text": "A wilderness of cloud forests, wetlands and flowering valleys, where life is endlessly created and reborn. The Keepers feel everything intensely; every bond carries a cost."
+  },
+  "realms.REALMS[0].lines[1]": {
+    "max": 46,
+    "text": "They honour Jivara, Guardian of Life, and Prana, Keeper of Breath. Yet the oldest myths, which speak of the Ancients – the Weaver of all bonds, the Composer whose song rises from countless small things, the River of time itself – are beginning to emerge again."
+  },
+  "realms.REALMS[0].lines[2]": {
+    "max": 20,
+    "text": "Now ancient pathways surface beneath the tangled roots. Rivers return to forgotten courses. Strange clearings appear in the oldest forests."
+  },
+  "realms.REALMS[0].cast[0].name": {
+    "max": 1,
+    "text": "Oxy"
+  },
+  "realms.REALMS[0].cast[0].face": {
+    "max": 1,
+    "text": "008"
+  },
+  "realms.REALMS[0].cast[0].line": {
+    "max": 11,
+    "text": "keeps finding places she swears were not there the day before."
+  },
+  "realms.REALMS[0].cast[1].name": {
+    "max": 1,
+    "text": "Hy"
+  },
+  "realms.REALMS[0].cast[1].face": {
+    "max": 1,
+    "text": "001"
+  },
+  "realms.REALMS[0].cast[1].line": {
+    "max": 13,
+    "text": "chases every impossible path, convinced each mystery is another adventure waiting to unfold."
+  },
+  "realms.REALMS[0].cast[2].name": {
+    "max": 1,
+    "text": "Carbon"
+  },
+  "realms.REALMS[0].cast[2].face": {
+    "max": 1,
+    "text": "006"
+  },
+  "realms.REALMS[0].cast[2].line": {
+    "max": 14,
+    "text": "quietly records every change, certain the forests are trying to tell a forgotten story."
+  },
+  "realms.REALMS[1].number": {
+    "max": 1,
+    "text": "02"
+  },
+  "realms.REALMS[1].name": {
+    "max": 1,
+    "text": "Metallia"
+  },
+  "realms.REALMS[1].epithet": {
+    "max": 3,
+    "text": "Realm of Structure"
+  },
+  "realms.REALMS[1].lines[0]": {
+    "max": 61,
+    "text": "A kingdom of glittering mountain cities, clockwork towns and soaring bridges, where every street echoes with invention. At its heart rises the Hall of Impossible Ideas - where failed experiments and unfinished inventions are treasured alongside the greatest masterpieces, because every impossible idea might one day change the world. The Forge Clans burn bright and give everything to those they trust."
+  },
+  "realms.REALMS[1].lines[1]": {
+    "max": 58,
+    "text": "They honour Kara, Master of the Forge, and Silpin, Keeper of Form. The oldest forge songs also remember the Ancients - the Keeper who binds the heart of matter, the Weaver of every metal and magnet, and the Transformer, a hidden power that lets matter itself change - though few now recall why their names were ever spoken."
+  },
+  "realms.REALMS[1].lines[2]": {
+    "max": 26,
+    "text": "Nothing in Metallia is expected to move. Yet beneath the oldest forges, master smiths find metals never recorded, and some swear the mountains themselves are rising."
+  },
+  "realms.REALMS[1].cast[0].name": {
+    "max": 1,
+    "text": "Iro"
+  },
+  "realms.REALMS[1].cast[0].face": {
+    "max": 1,
+    "text": "026"
+  },
+  "realms.REALMS[1].cast[0].line": {
+    "max": 13,
+    "text": "says the mountains are growing - no one else can see them move."
+  },
+  "realms.REALMS[1].cast[1].name": {
+    "max": 1,
+    "text": "Cop"
+  },
+  "realms.REALMS[1].cast[1].face": {
+    "max": 1,
+    "text": "029"
+  },
+  "realms.REALMS[1].cast[1].line": {
+    "max": 18,
+    "text": "cannot resist experimenting with the impossible new alloys, convinced every strange metal is an invention waiting to happen."
+  },
+  "realms.REALMS[1].cast[2].name": {
+    "max": 1,
+    "text": "Bis"
+  },
+  "realms.REALMS[1].cast[2].face": {
+    "max": 1,
+    "text": "083"
+  },
+  "realms.REALMS[1].cast[2].line": {
+    "max": 13,
+    "text": "studies the emerging ores, recognising crystalline patterns that should have vanished long ago."
+  },
+  "realms.REALMS[2].number": {
+    "max": 1,
+    "text": "03"
+  },
+  "realms.REALMS[2].name": {
+    "max": 2,
+    "text": "Noble Heights"
+  },
+  "realms.REALMS[2].epithet": {
+    "max": 3,
+    "text": "Realm of Solitude"
+  },
+  "realms.REALMS[2].lines[0]": {
+    "max": 41,
+    "text": "Floating islands drift in silence beneath endless skies. Crystal observatories, tranquil gardens and sky-bridges link the scattered realms of the Luminaries, who study stars and compose music - content in solitude, though some quietly wonder what it might mean to belong."
+  },
+  "realms.REALMS[2].lines[1]": {
+    "max": 49,
+    "text": "They honour Akasa, Keeper of the Endless Sky, and Jyoti, Guardian of Quiet Light. Their oldest songs also remember the Ancients - the Dreamer of perfect symmetries broken, the River carrying every light forward, the Gatherer who calls the stars into their patterns - though few remember the notes."
+  },
+  "realms.REALMS[2].lines[2]": {
+    "max": 27,
+    "text": "Lately, stars linger where they should have drifted on. Familiar constellations appear where none should exist. Melodies echo across empty skies long after the musicians fall silent."
+  },
+  "realms.REALMS[2].cast[0].name": {
+    "max": 1,
+    "text": "Heli"
+  },
+  "realms.REALMS[2].cast[0].face": {
+    "max": 1,
+    "text": "002"
+  },
+  "realms.REALMS[2].cast[0].line": {
+    "max": 8,
+    "text": "hears music on winds that should not exist."
+  },
+  "realms.REALMS[2].cast[1].name": {
+    "max": 1,
+    "text": "Neon"
+  },
+  "realms.REALMS[2].cast[1].face": {
+    "max": 1,
+    "text": "010"
+  },
+  "realms.REALMS[2].cast[1].line": {
+    "max": 15,
+    "text": "fills the twilight with colours, convinced every strange light is trying to tell a story."
+  },
+  "realms.REALMS[2].cast[2].name": {
+    "max": 1,
+    "text": "Argon"
+  },
+  "realms.REALMS[2].cast[2].face": {
+    "max": 1,
+    "text": "018"
+  },
+  "realms.REALMS[2].cast[2].line": {
+    "max": 16,
+    "text": "compares the night sky with maps so old that no one remembers who first drew them."
+  },
+  "realms.REALMS[3].number": {
+    "max": 1,
+    "text": "04"
+  },
+  "realms.REALMS[3].name": {
+    "max": 1,
+    "text": "Lantharnia"
+  },
+  "realms.REALMS[3].epithet": {
+    "max": 3,
+    "text": "Realm of Memory"
+  },
+  "realms.REALMS[3].lines[0]": {
+    "max": 27,
+    "text": "Radiant crystal mountains glow with prism towers and pathways of living light. The Orders of Lantharnia wield hidden light, magnetism and memory, preserving knowledge older than history."
+  },
+  "realms.REALMS[3].lines[1]": {
+    "max": 62,
+    "text": "They honour Smriti, Keeper of Memory, and Prakasha, Bearer of Hidden Light, believing nothing is truly lost, only waiting to be revealed. Older names lie deeper still - the Archivist who keeps what cannot be lost, the Weaver of every unseen bond, the Gambler who never chooses - etched into crystal so old that no one remembers who carved them or why."
+  },
+  "realms.REALMS[3].lines[2]": {
+    "max": 24,
+    "text": "Lately, new constellations appear where the sky should be empty. Ancient crystals glow with colours never recorded. Forgotten observatories wake after millennia of silence."
+  },
+  "realms.REALMS[3].cast[0].name": {
+    "max": 1,
+    "text": "Neo"
+  },
+  "realms.REALMS[3].cast[0].face": {
+    "max": 1,
+    "text": "060"
+  },
+  "realms.REALMS[3].cast[0].line": {
+    "max": 17,
+    "text": "watches the stars from the highest prism tower - now something in the sky watches them back."
+  },
+  "realms.REALMS[3].cast[1].name": {
+    "max": 1,
+    "text": "Eu"
+  },
+  "realms.REALMS[3].cast[1].face": {
+    "max": 1,
+    "text": "063"
+  },
+  "realms.REALMS[3].cast[1].line": {
+    "max": 10,
+    "text": "notices colours in the crystals that no one can name."
+  },
+  "realms.REALMS[3].cast[2].name": {
+    "max": 1,
+    "text": "Cer"
+  },
+  "realms.REALMS[3].cast[2].face": {
+    "max": 1,
+    "text": "058"
+  },
+  "realms.REALMS[3].cast[2].line": {
+    "max": 18,
+    "text": "tends the oldest archives, puzzled that they no longer agree with the sky they were made to record."
+  },
+  "realms.REALMS[4].number": {
+    "max": 1,
+    "text": "05"
+  },
+  "realms.REALMS[4].name": {
+    "max": 1,
+    "text": "Actinoria"
+  },
+  "realms.REALMS[4].epithet": {
+    "max": 3,
+    "text": "Realm of Change"
+  },
+  "realms.REALMS[4].lines[0]": {
+    "max": 42,
+    "text": "Deep beneath the mountains lies an underworld where the stone hums with ancient fire. The Memory Circle of Actinoria carry flames that could light stars or shatter realms. They are guardians of transformation, believing every ending gives rise to a new beginning."
+  },
+  "realms.REALMS[4].lines[1]": {
+    "max": 60,
+    "text": "They honour Tejasvi, Keeper of the Inner Flame, and Parinama, Guardian of Transformation. Their oldest chants also remember the Ancients - the Transformer, whose touch lets matter itself change; Entropy, the slow undoing of all things; the Keeper, who binds what refuses to break - carved into caverns where no flame has ever reached, in a script no one reads."
+  },
+  "realms.REALMS[4].lines[2]": {
+    "max": 29,
+    "text": "Lately, the mountains' rhythms no longer echo as they once did. New chambers appear where only solid rock should exist. The heartbeat of the world has begun to change."
+  },
+  "realms.REALMS[4].cast[0].name": {
+    "max": 1,
+    "text": "Ura"
+  },
+  "realms.REALMS[4].cast[0].face": {
+    "max": 1,
+    "text": "092"
+  },
+  "realms.REALMS[4].cast[0].line": {
+    "max": 22,
+    "text": "feels it - the slow, vast heartbeat of the rock, its rhythm changing for a while now, and has told no one."
+  },
+  "realms.REALMS[4].cast[1].name": {
+    "max": 1,
+    "text": "Proto"
+  },
+  "realms.REALMS[4].cast[1].face": {
+    "max": 1,
+    "text": "091"
+  },
+  "realms.REALMS[4].cast[1].line": {
+    "max": 14,
+    "text": "studies the oldest rocks, troubled they no longer seem as ancient as they should."
+  },
+  "realms.REALMS[4].cast[2].name": {
+    "max": 1,
+    "text": "Thora"
+  },
+  "realms.REALMS[4].cast[2].face": {
+    "max": 1,
+    "text": "090"
+  },
+  "realms.REALMS[4].cast[2].line": {
+    "max": 16,
+    "text": "finds hidden pathways where no tunnels should exist, though no map agrees they were ever there."
+  },
+  "realms.REALMS[5].number": {
+    "max": 1,
+    "text": "06"
+  },
+  "realms.REALMS[5].name": {
+    "max": 2,
+    "text": "Bond Basin"
+  },
+  "realms.REALMS[5].epithet": {
+    "max": 4,
+    "text": "The Realm of Nexus"
+  },
+  "realms.REALMS[5].lines[0]": {
+    "max": 35,
+    "text": "At the heart of Elementoro lies Bond Basin, where the paths of all 118 cross, friendships are forged, rivalries ignite and destinies collide. Hy calls Nonaterra home, yet she always finds her way back here."
+  },
+  "realms.REALMS[5].lines[1]": {
+    "max": 25,
+    "text": "Legend tells of the Ignis Core, buried at the realm's heart. It listens. Every bond, every friendship, every connection is recorded. Nothing is ever forgotten."
+  },
+  "realms.REALMS[5].lines[2]": {
+    "max": 24,
+    "text": "The legend carries a warning. Every journey has a cost. Part of you is always left behind. And sometimes, something ancient follows you home."
+  },
+  "realms.REALMS[5].lines[3]": {
+    "max": 16,
+    "text": "Now, strange events across the realms are breathing new life into stories long dismissed as myth."
+  },
+  "realms.REALMS[5].cast[0].name": {
+    "max": 1,
+    "text": "Phos"
+  },
+  "realms.REALMS[5].cast[0].face": {
+    "max": 1,
+    "text": "015"
+  },
+  "realms.REALMS[5].cast[0].line": {
+    "max": 10,
+    "text": "is drawn to currents of energy only he can sense."
+  },
+  "realms.REALMS[5].cast[1].name": {
+    "max": 1,
+    "text": "Sulfur"
+  },
+  "realms.REALMS[5].cast[1].face": {
+    "max": 1,
+    "text": "016"
+  },
+  "realms.REALMS[5].cast[1].line": {
+    "max": 15,
+    "text": "keeps noticing unexpected connections between events that should have nothing to do with one another."
+  },
+  "realms.REALMS[5].cast[2].name": {
+    "max": 1,
+    "text": "Fluo"
+  },
+  "realms.REALMS[5].cast[2].face": {
+    "max": 1,
+    "text": "009"
+  },
+  "realms.REALMS[5].cast[2].line": {
+    "max": 14,
+    "text": "is convinced the shifting Basin follows a hidden logic that everyone else has overlooked."
+  },
+  "realms.REALMS[5].note": {
+    "max": 14,
+    "text": "None of them realise that beneath the Ignis Core, something has begun to wake..."
+  },
+  "streams.STREAMS[0].name": {
+    "max": 1,
+    "text": "Education"
+  },
+  "streams.STREAMS[0].eyebrow": {
+    "max": 5,
+    "text": "A stream of the universe"
+  },
+  "streams.STREAMS[0].heading[0]": {
+    "max": 1,
+    "text": "Elementoro"
+  },
+  "streams.STREAMS[0].heading[1]": {
+    "max": 3,
+    "text": "in the classroom."
+  },
+  "streams.STREAMS[0].lead": {
+    "max": 35,
+    "text": "The Stephen Perse Junior School is the first school in the world to embed Elementoro across its curriculum - bringing the Quantum Tower sculpture into its outdoor space and the 118 superheroes into every classroom."
+  },
+  "streams.STREAMS[0].points[0].title": {
+    "max": 3,
+    "text": "The Quantum Tower"
+  },
+  "streams.STREAMS[0].points[0].body": {
+    "max": 6,
+    "text": "A sculpture in the school grounds."
+  },
+  "streams.STREAMS[0].points[1].title": {
+    "max": 3,
+    "text": "The 118 cards"
+  },
+  "streams.STREAMS[0].points[1].body": {
+    "max": 5,
+    "text": "Every element, in every classroom."
+  },
+  "streams.STREAMS[0].points[2].title": {
+    "max": 3,
+    "text": "The Elementoro book"
+  },
+  "streams.STREAMS[0].points[2].body": {
+    "max": 8,
+    "text": "The periodic table, brought to life across lessons."
+  },
+  "streams.STREAMS[0].awaiting": {
+    "max": 8,
+    "text": "Three films for children are to come here."
+  },
+  "streams.STREAMS[1].name": {
+    "max": 1,
+    "text": "Publishing"
+  },
+  "streams.STREAMS[1].eyebrow": {
+    "max": 5,
+    "text": "A stream of the universe"
+  },
+  "streams.STREAMS[1].heading[0]": {
+    "max": 3,
+    "text": "The first set"
+  },
+  "streams.STREAMS[1].heading[1]": {
+    "max": 2,
+    "text": "of books."
+  },
+  "streams.STREAMS[1].points[0].title": {
+    "max": 1,
+    "text": "Encyclopaedia"
+  },
+  "streams.STREAMS[1].points[1].title": {
+    "max": 3,
+    "text": "Book of Poems"
+  },
+  "streams.STREAMS[1].awaiting": {
+    "max": 7,
+    "text": "The books themselves are to come here."
+  },
+  "streams.STREAMS[2].name": {
+    "max": 1,
+    "text": "Games"
+  },
+  "streams.STREAMS[2].eyebrow": {
+    "max": 5,
+    "text": "A stream of the universe"
+  },
+  "streams.STREAMS[2].heading[0]": {
+    "max": 2,
+    "text": "Three ways"
+  },
+  "streams.STREAMS[2].heading[1]": {
+    "max": 2,
+    "text": "to play."
+  },
+  "streams.STREAMS[2].points[0].title": {
+    "max": 1,
+    "text": "Digital"
+  },
+  "streams.STREAMS[2].points[1].title": {
+    "max": 1,
+    "text": "Board"
+  },
+  "streams.STREAMS[2].points[2].title": {
+    "max": 1,
+    "text": "Card"
+  },
+  "streams.STREAMS[2].awaiting": {
+    "max": 6,
+    "text": "The games are to come here."
+  },
+  "streams.STREAMS[3].name": {
+    "max": 1,
+    "text": "Merchandising"
+  },
+  "streams.STREAMS[3].eyebrow": {
+    "max": 5,
+    "text": "A stream of the universe"
+  },
+  "streams.STREAMS[3].heading[0]": {
+    "max": 2,
+    "text": "The 118,"
+  },
+  "streams.STREAMS[3].heading[1]": {
+    "max": 3,
+    "text": "in the world."
+  },
+  "streams.STREAMS[3].awaiting": {
+    "max": 8,
+    "text": "This one is to come from her entirely."
+  },
+  "streams.STREAM_BY_SLUG.education.name": {
+    "max": 1,
+    "text": "Education"
+  },
+  "streams.STREAM_BY_SLUG.education.eyebrow": {
+    "max": 5,
+    "text": "A stream of the universe"
+  },
+  "streams.STREAM_BY_SLUG.education.heading[0]": {
+    "max": 1,
+    "text": "Elementoro"
+  },
+  "streams.STREAM_BY_SLUG.education.heading[1]": {
+    "max": 3,
+    "text": "in the classroom."
+  },
+  "streams.STREAM_BY_SLUG.education.lead": {
+    "max": 35,
+    "text": "The Stephen Perse Junior School is the first school in the world to embed Elementoro across its curriculum - bringing the Quantum Tower sculpture into its outdoor space and the 118 superheroes into every classroom."
+  },
+  "streams.STREAM_BY_SLUG.education.points[0].title": {
+    "max": 3,
+    "text": "The Quantum Tower"
+  },
+  "streams.STREAM_BY_SLUG.education.points[0].body": {
+    "max": 6,
+    "text": "A sculpture in the school grounds."
+  },
+  "streams.STREAM_BY_SLUG.education.points[1].title": {
+    "max": 3,
+    "text": "The 118 cards"
+  },
+  "streams.STREAM_BY_SLUG.education.points[1].body": {
+    "max": 5,
+    "text": "Every element, in every classroom."
+  },
+  "streams.STREAM_BY_SLUG.education.points[2].title": {
+    "max": 3,
+    "text": "The Elementoro book"
+  },
+  "streams.STREAM_BY_SLUG.education.points[2].body": {
+    "max": 8,
+    "text": "The periodic table, brought to life across lessons."
+  },
+  "streams.STREAM_BY_SLUG.education.awaiting": {
+    "max": 8,
+    "text": "Three films for children are to come here."
+  },
+  "streams.STREAM_BY_SLUG.publishing.name": {
+    "max": 1,
+    "text": "Publishing"
+  },
+  "streams.STREAM_BY_SLUG.publishing.eyebrow": {
+    "max": 5,
+    "text": "A stream of the universe"
+  },
+  "streams.STREAM_BY_SLUG.publishing.heading[0]": {
+    "max": 3,
+    "text": "The first set"
+  },
+  "streams.STREAM_BY_SLUG.publishing.heading[1]": {
+    "max": 2,
+    "text": "of books."
+  },
+  "streams.STREAM_BY_SLUG.publishing.points[0].title": {
+    "max": 1,
+    "text": "Encyclopaedia"
+  },
+  "streams.STREAM_BY_SLUG.publishing.points[1].title": {
+    "max": 3,
+    "text": "Book of Poems"
+  },
+  "streams.STREAM_BY_SLUG.publishing.awaiting": {
+    "max": 7,
+    "text": "The books themselves are to come here."
+  },
+  "streams.STREAM_BY_SLUG.games.name": {
+    "max": 1,
+    "text": "Games"
+  },
+  "streams.STREAM_BY_SLUG.games.eyebrow": {
+    "max": 5,
+    "text": "A stream of the universe"
+  },
+  "streams.STREAM_BY_SLUG.games.heading[0]": {
+    "max": 2,
+    "text": "Three ways"
+  },
+  "streams.STREAM_BY_SLUG.games.heading[1]": {
+    "max": 2,
+    "text": "to play."
+  },
+  "streams.STREAM_BY_SLUG.games.points[0].title": {
+    "max": 1,
+    "text": "Digital"
+  },
+  "streams.STREAM_BY_SLUG.games.points[1].title": {
+    "max": 1,
+    "text": "Board"
+  },
+  "streams.STREAM_BY_SLUG.games.points[2].title": {
+    "max": 1,
+    "text": "Card"
+  },
+  "streams.STREAM_BY_SLUG.games.awaiting": {
+    "max": 6,
+    "text": "The games are to come here."
+  },
+  "streams.STREAM_BY_SLUG.merchandising.name": {
+    "max": 1,
+    "text": "Merchandising"
+  },
+  "streams.STREAM_BY_SLUG.merchandising.eyebrow": {
+    "max": 5,
+    "text": "A stream of the universe"
+  },
+  "streams.STREAM_BY_SLUG.merchandising.heading[0]": {
+    "max": 2,
+    "text": "The 118,"
+  },
+  "streams.STREAM_BY_SLUG.merchandising.heading[1]": {
+    "max": 3,
+    "text": "in the world."
+  },
+  "streams.STREAM_BY_SLUG.merchandising.awaiting": {
+    "max": 8,
+    "text": "This one is to come from her entirely."
+  },
+  "universe.INVITED.eyebrow": {
+    "max": 4,
+    "text": "You are invited by"
+  },
+  "universe.INVITED.heading[0]": {
+    "max": 3,
+    "text": "Artist and Scientist:"
+  },
+  "universe.INVITED.heading[1]": {
+    "max": 5,
+    "text": "A Shared Vision of Wonder"
+  },
+  "universe.INVITED.people[0].name": {
+    "max": 2,
+    "text": "Sheefali Asija"
+  },
+  "universe.INVITED.people[0].bio": {
+    "max": 38,
+    "text": "Sheefali Asija is an interdisciplinary artist whose work bridges science, myth, and humanity. Elementoro grows from a profound love of science and storytelling, and from a personal legacy shaped by resilience, wonder, and the enduring power of love."
+  },
+  "universe.INVITED.people[1].name": {
+    "max": 4,
+    "text": "Dame Clare Grey FRS"
+  },
+  "universe.INVITED.people[1].bio": {
+    "max": 35,
+    "text": "Dame Clare Grey, Professor of Chemistry at the University of Cambridge and Fellow of the Royal Society, is the scientific authority behind the Elementoro universe, driven by one belief: science must serve all human beings."
+  },
+  "universe.OFFER.title[0].text": {
+    "max": 2,
+    "text": "118 Elementori"
+  },
+  "universe.OFFER.title[1].text": {
+    "max": 3,
+    "text": "A Fractured Realm"
+  },
+  "universe.OFFER.rest": {
+    "max": 5,
+    "text": "This is only the beginning."
+  },
+  "universe.OFFER.email": {
+    "max": 1,
+    "text": "info@elementoro.com"
+  },
+  "universe.OFFER.cta": {
+    "max": 6,
+    "text": "Be part of what comes next"
+  },
+  "universe.OFFER.motionAlt": {
+    "max": 4,
+    "text": "Bismuth, the peacock, moving"
+  },
+  "universe.SCHOOL.heading": {
+    "max": 3,
+    "text": "First School Partnership"
+  },
+  "universe.SCHOOL.lead": {
+    "max": 35,
+    "text": "The Stephen Perse Junior School is the first school in the world to embed Elementoro across its curriculum - bringing the Quantum Tower sculpture into its outdoor space and the 118 superheroes into every classroom."
+  },
+  "universe.SCHOOL.badges[0].label": {
+    "max": 3,
+    "text": "Founding Partner School"
+  },
+  "universe.SCHOOL.badges[1].label": {
+    "max": 1,
+    "text": "Cambridge"
+  },
+  "universe.SCHOOL.name": {
+    "max": 5,
+    "text": "The Stephen Perse Junior School"
+  },
+  "universe.SCHOOL.quote": {
+    "max": 68,
+    "text": "\"We're incredibly excited to be the first school to showcase a model of the Quantum Tower in situ. This fantastic addition to our outdoor space will inspire and motivate our pupils on their journey of STEM learning. By enhancing our curriculum with the Elementoro cards and Elementoro book, we're bringing the periodic table to life across our lessons - sparking curiosity, creativity, and a lifelong passion for science.\""
+  },
+  "universe.SCHOOL.cite": {
+    "max": 3,
+    "text": "David Hewlett, Principal"
+  },
+  "universe.UNIVERSE.heading[0]": {
+    "max": 2,
+    "text": "One Living"
+  },
+  "universe.UNIVERSE.heading[1]": {
+    "max": 2,
+    "text": "Storytelling Universe."
+  },
+  "universe.UNIVERSE.tail": {
+    "max": 2,
+    "text": "Infinite Potential."
+  },
+  "universe.UNIVERSE.streams[0].name": {
+    "max": 1,
+    "text": "Education"
+  },
+  "universe.UNIVERSE.streams[1].name": {
+    "max": 1,
+    "text": "Publishing"
+  },
+  "universe.UNIVERSE.streams[2].name": {
+    "max": 1,
+    "text": "Games"
+  },
+  "universe.UNIVERSE.streams[2].family[0]": {
+    "max": 1,
+    "text": "Digital"
+  },
+  "universe.UNIVERSE.streams[2].family[1]": {
+    "max": 1,
+    "text": "Board"
+  },
+  "universe.UNIVERSE.streams[2].family[2]": {
+    "max": 1,
+    "text": "Card"
+  },
+  "universe.UNIVERSE.streams[3].name": {
+    "max": 1,
+    "text": "Merchandising"
+  },
+  "universe.UNIVERSE.stats[0].figure": {
+    "max": 1,
+    "text": "118"
+  },
+  "universe.UNIVERSE.stats[0].label": {
+    "max": 1,
+    "text": "Superheroes"
+  },
+  "universe.UNIVERSE.stats[1].figure": {
+    "max": 1,
+    "text": "13.8B"
+  },
+  "universe.UNIVERSE.stats[1].label": {
+    "max": 4,
+    "text": "Years in the Making"
+  },
+  "universe.UNIVERSE.stats[2].figure": {
+    "max": 1,
+    "text": "Infinite"
+  },
+  "universe.UNIVERSE.stats[2].label": {
+    "max": 1,
+    "text": "Possibilities"
+  },
+  "ui.CARD_ARIA.label": {
+    "max": 3,
+    "text": "{name}, element {n}"
+  },
+  "ui.DECK_UI.label": {
+    "max": 3,
+    "text": "Meet the 118"
+  },
+  "ui.DECK_UI.heading": {
+    "max": 3,
+    "text": "Superheroes of Elementoro"
+  },
+  "ui.DECK_UI.lead": {
+    "max": 12,
+    "text": "Click a card to reveal their powers, their lore, their origin story."
+  },
+  "ui.DECK_UI.claim": {
+    "max": 11,
+    "text": "Every one of them real. Every power they carry — true."
+  },
+  "ui.DECK_UI.close": {
+    "max": 4,
+    "text": "Put the card back"
+  },
+  "ui.DECK_UI.closeLabel": {
+    "max": 1,
+    "text": "Close"
+  },
+  "ui.ENTER_CARD.kick": {
+    "max": 1,
+    "text": "Enter:"
+  },
+  "ui.ENTER_CARD.line": {
+    "max": 4,
+    "text": "The Extraordinary Universe of"
+  },
+  "ui.ENTER_CARD.count": {
+    "max": 2,
+    "text": "118 Superheroes."
+  },
+  "ui.ENTER_CARD.years": {
+    "max": 6,
+    "text": "13.8 Billion Years in the Making."
+  },
+  "ui.GATE.label": {
+    "max": 3,
+    "text": "Enter the password"
+  },
+  "ui.GATE.button": {
+    "max": 1,
+    "text": "Enter"
+  },
+  "ui.HERO_UI.presenter": {
+    "max": 2,
+    "text": "NankiBai Ltd"
+  },
+  "ui.HERO_UI.presents": {
+    "max": 1,
+    "text": "presents"
+  },
+  "ui.HERO_UI.title": {
+    "max": 1,
+    "text": "ELEMENTORO"
+  },
+  "ui.HERO_UI.subtitle": {
+    "max": 3,
+    "text": "The Fractured Realms"
+  },
+  "ui.HERO_UI.cue": {
+    "max": 3,
+    "text": "scroll to enter"
+  },
+  "ui.META.title": {
+    "max": 1,
+    "text": "Elementoro"
+  },
+  "ui.META.description": {
+    "max": 7,
+    "text": "Nankibai presents the incredible universe of Elementoro."
+  },
+  "ui.NAV_UI.backToScroll": {
+    "max": 4,
+    "text": "Back to the scroll"
+  },
+  "ui.NAV_UI.backToMain": {
+    "max": 5,
+    "text": "Back to the main scroll"
+  },
+  "ui.NAV_UI.powersRail": {
+    "max": 4,
+    "text": "what they can do"
+  },
+  "ui.NAV_UI.and": {
+    "max": 1,
+    "text": "and"
+  },
+  "ui.PRIME_UI.label": {
+    "max": 3,
+    "text": "The Prime Table"
+  },
+  "ui.PRIME_UI.heading": {
+    "max": 5,
+    "text": "The pattern of all things."
+  },
+  "ui.PRIME_UI.elements": {
+    "max": 1,
+    "text": "elements"
+  },
+  "ui.PRIME_UI.groups": {
+    "max": 1,
+    "text": "groups"
+  },
+  "ui.PRIME_UI.periods": {
+    "max": 1,
+    "text": "periods"
+  },
+  "ui.PRIME_UI.lead": {
+    "max": 15,
+    "text": "Click a card to bring it forward and then drag it to turn it over."
+  },
+  "ui.WELCOME_UI.head": {
+    "max": 1,
+    "text": "Welcome"
+  },
+  "ui.WELCOME_UI.line": {
+    "max": 3,
+    "text": "Mind your step."
+  },
+  "ui.WELCOME_UI.body": {
+    "max": 16,
+    "text": "Inside, you will meet the heroes, wanderers, inventors, guardians, rebels, and dreamers who call Elementoro home."
+  },
+  "ui.WELCOME_UI.here": {
+    "max": 1,
+    "text": "Here"
+  },
+  "ui.WELCOME_UI.creed[0]": {
+    "max": 3,
+    "text": "Curiosity is magic."
+  },
+  "ui.WELCOME_UI.creed[1]": {
+    "max": 5,
+    "text": "Imagination, a force of nature."
+  },
+  "ui.WELCOME_UI.creed[2]": {
+    "max": 7,
+    "text": "Stories are how the world stays alive."
+  },
+  "ui.WELCOME_UI.step": {
+    "max": 7,
+    "text": "So step carefully into the Fractured Realms."
+  },
+  "ui.WELCOME_UI.warnings[0].lead": {
+    "max": 1,
+    "text": "Listen"
+  },
+  "ui.WELCOME_UI.warnings[0].rest": {
+    "max": 6,
+    "text": "to the whispers in the caves."
+  },
+  "ui.WELCOME_UI.warnings[1].lead": {
+    "max": 1,
+    "text": "Watch"
+  },
+  "ui.WELCOME_UI.warnings[1].rest": {
+    "max": 5,
+    "text": "the skies above Noble Heights."
+  },
+  "ui.WELCOME_UI.warnings[2].lead": {
+    "max": 3,
+    "text": "Do not wander"
+  },
+  "ui.WELCOME_UI.warnings[2].rest": {
+    "max": 9,
+    "text": "too close to the Ignis Core beneath Bond Basin."
+  },
+  "ui.WELCOME_UI.run": {
+    "max": 11,
+    "text": "And if you hear silence where there should be sound —"
+  },
+  "ui.WELCOME_UI.runWord": {
+    "max": 1,
+    "text": "Run."
+  },
+  "deck[0].name": {
+    "max": 1,
+    "text": "Hydrogen"
+  },
+  "deck[0].nick": {
+    "max": 1,
+    "text": "Hy"
+  },
+  "deck[0].title": {
+    "max": 4,
+    "text": "The Hummingbird of Starlight"
+  },
+  "deck[0].story": {
+    "max": 11,
+    "text": "Hy races through the realms chasing mysteries no one else notices."
+  },
+  "deck[0].horror": {
+    "max": 20,
+    "text": "I hear a burning star whisper my name - a reminder that my love can create worlds or consume them."
+  },
+  "deck[1].name": {
+    "max": 1,
+    "text": "Helium"
+  },
+  "deck[1].nick": {
+    "max": 1,
+    "text": "Heli"
+  },
+  "deck[1].title": {
+    "max": 5,
+    "text": "The Drifter of Unbound Sky"
+  },
+  "deck[1].story": {
+    "max": 10,
+    "text": "Heli floats calmly above the chaos, hiding loneliness behind amusement."
+  },
+  "deck[1].horror": {
+    "max": 12,
+    "text": "I was born from Hydrogen's sacrifice - creation often begins with loss."
+  },
+  "deck[2].name": {
+    "max": 1,
+    "text": "Lithium"
+  },
+  "deck[2].nick": {
+    "max": 1,
+    "text": "Li"
+  },
+  "deck[2].title": {
+    "max": 6,
+    "text": "The Arctic Fox of Dancing Storms"
+  },
+  "deck[2].story": {
+    "max": 12,
+    "text": "Li burns bright and gives everything she has to anyone who asks."
+  },
+  "deck[2].horror": {
+    "max": 20,
+    "text": "I catch fire at the touch of water - the thing I need most is most likely to destroy me."
+  },
+  "deck[3].name": {
+    "max": 1,
+    "text": "Beryllium"
+  },
+  "deck[3].nick": {
+    "max": 1,
+    "text": "Be"
+  },
+  "deck[3].title": {
+    "max": 3,
+    "text": "The Glass-Wing Dragonfly"
+  },
+  "deck[3].story": {
+    "max": 14,
+    "text": "Be sees the fractures in everything - and knows exactly where they will break."
+  },
+  "deck[3].horror": {
+    "max": 15,
+    "text": "My wings are beautiful and lethal. Those who admire them longest are most at risk."
+  },
+  "deck[4].name": {
+    "max": 1,
+    "text": "Boron"
+  },
+  "deck[4].nick": {
+    "max": 1,
+    "text": "B"
+  },
+  "deck[4].title": {
+    "max": 5,
+    "text": "The Rhino of Crystal Lattice"
+  },
+  "deck[4].story": {
+    "max": 7,
+    "text": "B builds where others break and bend."
+  },
+  "deck[4].horror": {
+    "max": 8,
+    "text": "I hold everything together, yet nothing holds me."
+  },
+  "deck[5].name": {
+    "max": 1,
+    "text": "Carbon"
+  },
+  "deck[5].nick": {
+    "max": 1,
+    "text": "Carr"
+  },
+  "deck[5].title": {
+    "max": 5,
+    "text": "The Panther of Shifting Light"
+  },
+  "deck[5].story": {
+    "max": 13,
+    "text": "Carr shifts through endless forms, never fully certain which one is truly hers."
+  },
+  "deck[5].horror": {
+    "max": 17,
+    "text": "I can become anything - which means I have never been certain of what I truly am."
+  },
+  "deck[6].name": {
+    "max": 1,
+    "text": "Nitrogen"
+  },
+  "deck[6].nick": {
+    "max": 1,
+    "text": "N"
+  },
+  "deck[6].title": {
+    "max": 5,
+    "text": "The Acacia of Endless Breath"
+  },
+  "deck[6].story": {
+    "max": 7,
+    "text": "Nit holds the world together in stillness."
+  },
+  "deck[6].horror": {
+    "max": 10,
+    "text": "From the quietest cycle a universe begins - and ends."
+  },
+  "deck[7].name": {
+    "max": 1,
+    "text": "Oxygen"
+  },
+  "deck[7].nick": {
+    "max": 1,
+    "text": "Oxy"
+  },
+  "deck[7].title": {
+    "max": 6,
+    "text": "The Phoenix of Breath & Flame"
+  },
+  "deck[7].story": {
+    "max": 11,
+    "text": "Oxy burns fierce but fears the fire inside her own heart."
+  },
+  "deck[7].horror": {
+    "max": 8,
+    "text": "I am creation and destruction in one heartbeat."
+  },
+  "deck[8].name": {
+    "max": 1,
+    "text": "Fluorine"
+  },
+  "deck[8].nick": {
+    "max": 1,
+    "text": "F"
+  },
+  "deck[8].title": {
+    "max": 6,
+    "text": "The Peregrine Falcon of Absolute Strike"
+  },
+  "deck[8].story": {
+    "max": 13,
+    "text": "F dives for completion - and shatters what she loves in the reaching."
+  },
+  "deck[8].horror": {
+    "max": 9,
+    "text": "I dive for completion and shatter what I love."
+  },
+  "cards[0].name": {
+    "max": 1,
+    "text": "Hydrogen"
+  },
+  "cards[1].name": {
+    "max": 1,
+    "text": "Helium"
+  },
+  "cards[2].name": {
+    "max": 1,
+    "text": "Lithium"
+  },
+  "cards[3].name": {
+    "max": 1,
+    "text": "Beryllium"
+  },
+  "cards[4].name": {
+    "max": 1,
+    "text": "Boron"
+  },
+  "cards[5].name": {
+    "max": 1,
+    "text": "Carbon"
+  },
+  "cards[6].name": {
+    "max": 1,
+    "text": "Nitrogen"
+  },
+  "cards[7].name": {
+    "max": 1,
+    "text": "Oxygen"
+  },
+  "cards[8].name": {
+    "max": 1,
+    "text": "Fluorine"
+  },
+  "cards[9].name": {
+    "max": 1,
+    "text": "Neon"
+  },
+  "cards[10].name": {
+    "max": 1,
+    "text": "Sodium"
+  },
+  "cards[11].name": {
+    "max": 1,
+    "text": "Magnesium"
+  },
+  "cards[12].name": {
+    "max": 1,
+    "text": "Aluminium"
+  },
+  "cards[13].name": {
+    "max": 1,
+    "text": "Silicon"
+  },
+  "cards[14].name": {
+    "max": 1,
+    "text": "phosporus"
+  },
+  "cards[15].name": {
+    "max": 1,
+    "text": "Sulphur"
+  },
+  "cards[16].name": {
+    "max": 1,
+    "text": "Chlorine"
+  },
+  "cards[17].name": {
+    "max": 1,
+    "text": "Argon"
+  },
+  "cards[18].name": {
+    "max": 1,
+    "text": "Potassium"
+  },
+  "cards[19].name": {
+    "max": 1,
+    "text": "Calcium"
+  },
+  "cards[20].name": {
+    "max": 1,
+    "text": "Scandium"
+  },
+  "cards[21].name": {
+    "max": 1,
+    "text": "Titanium"
+  },
+  "cards[22].name": {
+    "max": 1,
+    "text": "Vanadium"
+  },
+  "cards[23].name": {
+    "max": 1,
+    "text": "Chromium"
+  },
+  "cards[24].name": {
+    "max": 1,
+    "text": "Manganese"
+  },
+  "cards[25].name": {
+    "max": 1,
+    "text": "Iron"
+  },
+  "cards[26].name": {
+    "max": 1,
+    "text": "Cobalt"
+  },
+  "cards[27].name": {
+    "max": 1,
+    "text": "Nickel"
+  },
+  "cards[28].name": {
+    "max": 1,
+    "text": "Copper"
+  },
+  "cards[29].name": {
+    "max": 1,
+    "text": "Zinc"
+  },
+  "cards[30].name": {
+    "max": 1,
+    "text": "Gallium"
+  },
+  "cards[31].name": {
+    "max": 1,
+    "text": "Germanium"
+  },
+  "cards[32].name": {
+    "max": 1,
+    "text": "Arsenic"
+  },
+  "cards[33].name": {
+    "max": 1,
+    "text": "Selenium"
+  },
+  "cards[34].name": {
+    "max": 1,
+    "text": "Bromine"
+  },
+  "cards[35].name": {
+    "max": 1,
+    "text": "Krypton"
+  },
+  "cards[36].name": {
+    "max": 1,
+    "text": "Rubidium"
+  },
+  "cards[37].name": {
+    "max": 1,
+    "text": "Strontium"
+  },
+  "cards[38].name": {
+    "max": 1,
+    "text": "Yttrium"
+  },
+  "cards[39].name": {
+    "max": 1,
+    "text": "Zirconium"
+  },
+  "cards[40].name": {
+    "max": 1,
+    "text": "Niobium"
+  },
+  "cards[41].name": {
+    "max": 1,
+    "text": "Molybdnum"
+  },
+  "cards[42].name": {
+    "max": 1,
+    "text": "Technetium"
+  },
+  "cards[43].name": {
+    "max": 1,
+    "text": "Ruthenium"
+  },
+  "cards[44].name": {
+    "max": 1,
+    "text": "Rhodium"
+  },
+  "cards[45].name": {
+    "max": 1,
+    "text": "Palladium"
+  },
+  "cards[46].name": {
+    "max": 1,
+    "text": "Silver"
+  },
+  "cards[47].name": {
+    "max": 1,
+    "text": "Cadmium"
+  },
+  "cards[48].name": {
+    "max": 1,
+    "text": "Indium"
+  },
+  "cards[49].name": {
+    "max": 1,
+    "text": "Tin"
+  },
+  "cards[50].name": {
+    "max": 1,
+    "text": "Antimony"
+  },
+  "cards[51].name": {
+    "max": 1,
+    "text": "Tellurium"
+  },
+  "cards[52].name": {
+    "max": 1,
+    "text": "Iodine"
+  },
+  "cards[53].name": {
+    "max": 1,
+    "text": "Xenon"
+  },
+  "cards[54].name": {
+    "max": 1,
+    "text": "Cesium"
+  },
+  "cards[55].name": {
+    "max": 1,
+    "text": "Barium"
+  },
+  "cards[56].name": {
+    "max": 1,
+    "text": "Lanthanum"
+  },
+  "cards[57].name": {
+    "max": 1,
+    "text": "Cerium"
+  },
+  "cards[58].name": {
+    "max": 1,
+    "text": "Praseodymium"
+  },
+  "cards[59].name": {
+    "max": 1,
+    "text": "Neodymium"
+  },
+  "cards[60].name": {
+    "max": 1,
+    "text": "Promethium"
+  },
+  "cards[61].name": {
+    "max": 1,
+    "text": "Samarium"
+  },
+  "cards[62].name": {
+    "max": 1,
+    "text": "Europium"
+  },
+  "cards[63].name": {
+    "max": 1,
+    "text": "Gadolinium"
+  },
+  "cards[64].name": {
+    "max": 1,
+    "text": "Terbium"
+  },
+  "cards[65].name": {
+    "max": 1,
+    "text": "Dysprosium"
+  },
+  "cards[66].name": {
+    "max": 1,
+    "text": "Holonium"
+  },
+  "cards[67].name": {
+    "max": 1,
+    "text": "Erbium"
+  },
+  "cards[68].name": {
+    "max": 1,
+    "text": "Thulium"
+  },
+  "cards[69].name": {
+    "max": 1,
+    "text": "Ytterbium"
+  },
+  "cards[70].name": {
+    "max": 1,
+    "text": "Lutetium"
+  },
+  "cards[71].name": {
+    "max": 1,
+    "text": "Hafnium"
+  },
+  "cards[72].name": {
+    "max": 1,
+    "text": "Tantalum"
+  },
+  "cards[73].name": {
+    "max": 1,
+    "text": "Tungsten"
+  },
+  "cards[74].name": {
+    "max": 1,
+    "text": "Rhenium"
+  },
+  "cards[75].name": {
+    "max": 1,
+    "text": "Osmium"
+  },
+  "cards[76].name": {
+    "max": 1,
+    "text": "Iridium"
+  },
+  "cards[77].name": {
+    "max": 1,
+    "text": "Platinum"
+  },
+  "cards[78].name": {
+    "max": 1,
+    "text": "Gold"
+  },
+  "cards[79].name": {
+    "max": 1,
+    "text": "Mercury"
+  },
+  "cards[80].name": {
+    "max": 1,
+    "text": "Thallium"
+  },
+  "cards[81].name": {
+    "max": 1,
+    "text": "Lead"
+  },
+  "cards[82].name": {
+    "max": 1,
+    "text": "Bismuth"
+  },
+  "cards[83].name": {
+    "max": 1,
+    "text": "Polonium"
+  },
+  "cards[84].name": {
+    "max": 1,
+    "text": "Astatine"
+  },
+  "cards[85].name": {
+    "max": 1,
+    "text": "Radon"
+  },
+  "cards[86].name": {
+    "max": 1,
+    "text": "Francium"
+  },
+  "cards[87].name": {
+    "max": 1,
+    "text": "Radium"
+  },
+  "cards[88].name": {
+    "max": 1,
+    "text": "Actinium"
+  },
+  "cards[89].name": {
+    "max": 1,
+    "text": "Thorium"
+  },
+  "cards[90].name": {
+    "max": 1,
+    "text": "Protactinium"
+  },
+  "cards[91].name": {
+    "max": 1,
+    "text": "Uranium"
+  },
+  "cards[92].name": {
+    "max": 1,
+    "text": "Neptunium"
+  },
+  "cards[93].name": {
+    "max": 1,
+    "text": "Plutonium"
+  },
+  "cards[94].name": {
+    "max": 1,
+    "text": "Americium"
+  },
+  "cards[95].name": {
+    "max": 1,
+    "text": "Curium"
+  },
+  "cards[96].name": {
+    "max": 1,
+    "text": "Berkelium"
+  },
+  "cards[97].name": {
+    "max": 1,
+    "text": "Californium"
+  },
+  "cards[98].name": {
+    "max": 1,
+    "text": "Einsteinium"
+  },
+  "cards[99].name": {
+    "max": 1,
+    "text": "Fermium"
+  },
+  "cards[100].name": {
+    "max": 1,
+    "text": "Mendelevium"
+  },
+  "cards[101].name": {
+    "max": 1,
+    "text": "Nobelium"
+  },
+  "cards[102].name": {
+    "max": 1,
+    "text": "Lawrencium"
+  },
+  "cards[103].name": {
+    "max": 1,
+    "text": "Rutherfordium"
+  },
+  "cards[104].name": {
+    "max": 1,
+    "text": "Dubnium"
+  },
+  "cards[105].name": {
+    "max": 1,
+    "text": "Seaborgium"
+  },
+  "cards[106].name": {
+    "max": 1,
+    "text": "Bohrium"
+  },
+  "cards[107].name": {
+    "max": 1,
+    "text": "Hassium"
+  },
+  "cards[108].name": {
+    "max": 1,
+    "text": "Meitnerium"
+  },
+  "cards[109].name": {
+    "max": 1,
+    "text": "Darmstadtium"
+  },
+  "cards[110].name": {
+    "max": 1,
+    "text": "Roentgenium"
+  },
+  "cards[111].name": {
+    "max": 1,
+    "text": "Copernicium"
+  },
+  "cards[112].name": {
+    "max": 1,
+    "text": "Nihonium"
+  },
+  "cards[113].name": {
+    "max": 1,
+    "text": "Flerovium"
+  },
+  "cards[114].name": {
+    "max": 1,
+    "text": "Moscovium"
+  },
+  "cards[115].name": {
+    "max": 1,
+    "text": "Livermorium"
+  },
+  "cards[116].name": {
+    "max": 1,
+    "text": "Tennesine"
+  },
+  "cards[117].name": {
+    "max": 1,
+    "text": "Ognesson"
+  }
+}

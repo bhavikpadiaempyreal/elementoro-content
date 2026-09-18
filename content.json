@@ -1350,12 +1350,12 @@
     "text": "There can be only 7 energy shells."
   },
   "quantum.QUANTUM.claims[1]": {
-    "max": 20,
-    "text": "And the arrangement of electrons across the 7 can be only — 2, 8, 18, 18, 32, 32, 18, 8."
+    "max": 19,
+    "text": "And the arrangement of electrons across the 7 can be only — 2, 8, 18, 32, 32, 18, 8."
   },
   "quantum.QUANTUM.shellsCaption": {
-    "max": 8,
-    "text": "2, 8, 18, 18, 32, 32, 18, 8"
+    "max": 7,
+    "text": "2, 8, 18, 32, 32, 18, 8"
   },
   "quantum.QUANTUM.shellsChase": {
     "max": 3,

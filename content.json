@@ -793,10 +793,6 @@
     "max": 4,
     "text": "the spark that fires"
   },
-  "madeof.MADE_OF.nerve[0].face": {
-    "max": 1,
-    "text": "011"
-  },
   "madeof.MADE_OF.nerve[1].tag": {
     "max": 1,
     "text": "K"
@@ -804,10 +800,6 @@
   "madeof.MADE_OF.nerve[1].role": {
     "max": 4,
     "text": "the spark that resets"
-  },
-  "madeof.MADE_OF.nerve[1].face": {
-    "max": 1,
-    "text": "019"
   },
   "madeof.MADE_OF.nerve[2].tag": {
     "max": 1,
@@ -817,10 +809,6 @@
     "max": 5,
     "text": "opens the gate between neurons"
   },
-  "madeof.MADE_OF.nerve[2].face": {
-    "max": 1,
-    "text": "020"
-  },
   "madeof.MADE_OF.nerve[3].tag": {
     "max": 1,
     "text": "Cl"
@@ -828,10 +816,6 @@
   "madeof.MADE_OF.nerve[3].role": {
     "max": 4,
     "text": "quiets the signal again"
-  },
-  "madeof.MADE_OF.nerve[3].face": {
-    "max": 1,
-    "text": "017"
   },
   "madeof.MADE_OF.nerve[4].tag": {
     "max": 1,
@@ -841,10 +825,6 @@
     "max": 4,
     "text": "guards the memory gate"
   },
-  "madeof.MADE_OF.nerve[4].face": {
-    "max": 1,
-    "text": "012"
-  },
   "madeof.MADE_OF.nerve[5].tag": {
     "max": 1,
     "text": "P"
@@ -852,10 +832,6 @@
   "madeof.MADE_OF.nerve[5].role": {
     "max": 4,
     "text": "pays for every firing"
-  },
-  "madeof.MADE_OF.nerve[5].face": {
-    "max": 1,
-    "text": "015"
   },
   "madeof.MADE_OF.nerve[6].tag": {
     "max": 1,
@@ -865,10 +841,6 @@
     "max": 3,
     "text": "builds the messenger"
   },
-  "madeof.MADE_OF.nerve[6].face": {
-    "max": 1,
-    "text": "006"
-  },
   "madeof.MADE_OF.nerve[7].tag": {
     "max": 1,
     "text": "Hy"
@@ -876,10 +848,6 @@
   "madeof.MADE_OF.nerve[7].role": {
     "max": 3,
     "text": "holds it together"
-  },
-  "madeof.MADE_OF.nerve[7].face": {
-    "max": 1,
-    "text": "001"
   },
   "madeof.MADE_OF.nerve[8].tag": {
     "max": 1,
@@ -889,10 +857,6 @@
     "max": 3,
     "text": "burns the fuel"
   },
-  "madeof.MADE_OF.nerve[8].face": {
-    "max": 1,
-    "text": "008"
-  },
   "madeof.MADE_OF.nerve[9].tag": {
     "max": 1,
     "text": "Iro"
@@ -900,10 +864,6 @@
   "madeof.MADE_OF.nerve[9].role": {
     "max": 5,
     "text": "carries oxygen to the thinking"
-  },
-  "madeof.MADE_OF.nerve[9].face": {
-    "max": 1,
-    "text": "026"
   },
   "madeof.MADE_OF.nerveNote.label": {
     "max": 3,
@@ -933,10 +893,6 @@
     "max": 5,
     "text": "closes the ring in oxytocin"
   },
-  "madeof.MADE_OF.heart[0].face": {
-    "max": 1,
-    "text": "016"
-  },
   "madeof.MADE_OF.heart[1].tag": {
     "max": 1,
     "text": "N"
@@ -944,10 +900,6 @@
   "madeof.MADE_OF.heart[1].role": {
     "max": 5,
     "text": "at the heart of dopamine"
-  },
-  "madeof.MADE_OF.heart[1].face": {
-    "max": 1,
-    "text": "007"
   },
   "madeof.MADE_OF.heart[2].tag": {
     "max": 1,
@@ -957,10 +909,6 @@
     "max": 5,
     "text": "the backbone of them all"
   },
-  "madeof.MADE_OF.heart[2].face": {
-    "max": 1,
-    "text": "006"
-  },
   "madeof.MADE_OF.heart[3].tag": {
     "max": 1,
     "text": "Hy"
@@ -968,10 +916,6 @@
   "madeof.MADE_OF.heart[3].role": {
     "max": 3,
     "text": "holds the shape"
-  },
-  "madeof.MADE_OF.heart[3].face": {
-    "max": 1,
-    "text": "001"
   },
   "madeof.MADE_OF.heart[4].tag": {
     "max": 1,
@@ -981,10 +925,6 @@
     "max": 3,
     "text": "in every feeling"
   },
-  "madeof.MADE_OF.heart[4].face": {
-    "max": 1,
-    "text": "008"
-  },
   "madeof.MADE_OF.heart[5].tag": {
     "max": 1,
     "text": "Cl"
@@ -992,10 +932,6 @@
   "madeof.MADE_OF.heart[5].role": {
     "max": 5,
     "text": "floods the calm of GABA"
-  },
-  "madeof.MADE_OF.heart[5].face": {
-    "max": 1,
-    "text": "017"
   },
   "madeof.MADE_OF.heart[6].tag": {
     "max": 1,
@@ -1005,10 +941,6 @@
     "max": 4,
     "text": "floods muscle with fear"
   },
-  "madeof.MADE_OF.heart[6].face": {
-    "max": 1,
-    "text": "026"
-  },
   "madeof.MADE_OF.heart[7].tag": {
     "max": 1,
     "text": "Mag"
@@ -1016,10 +948,6 @@
   "madeof.MADE_OF.heart[7].role": {
     "max": 3,
     "text": "steadies what races"
-  },
-  "madeof.MADE_OF.heart[7].face": {
-    "max": 1,
-    "text": "012"
   },
   "madeof.MADE_OF.heart[8].tag": {
     "max": 1,
@@ -1029,10 +957,6 @@
     "max": 4,
     "text": "builds the fear molecule"
   },
-  "madeof.MADE_OF.heart[8].face": {
-    "max": 1,
-    "text": "029"
-  },
   "madeof.MADE_OF.heart[9].tag": {
     "max": 1,
     "text": "Zn"
@@ -1040,10 +964,6 @@
   "madeof.MADE_OF.heart[9].role": {
     "max": 3,
     "text": "tunes the signal"
-  },
-  "madeof.MADE_OF.heart[9].face": {
-    "max": 1,
-    "text": "030"
   },
   "madeof.MADE_OF.heartNote.label": {
     "max": 3,
@@ -1521,10 +1441,6 @@
     "max": 1,
     "text": "shells"
   },
-  "realms.REALMS[0].number": {
-    "max": 1,
-    "text": "01"
-  },
   "realms.REALMS[0].name": {
     "max": 1,
     "text": "Nonaterra"
@@ -1549,10 +1465,6 @@
     "max": 1,
     "text": "Oxy"
   },
-  "realms.REALMS[0].cast[0].face": {
-    "max": 1,
-    "text": "008"
-  },
   "realms.REALMS[0].cast[0].line": {
     "max": 11,
     "text": "keeps finding places she swears were not there the day before."
@@ -1560,10 +1472,6 @@
   "realms.REALMS[0].cast[1].name": {
     "max": 1,
     "text": "Hy"
-  },
-  "realms.REALMS[0].cast[1].face": {
-    "max": 1,
-    "text": "001"
   },
   "realms.REALMS[0].cast[1].line": {
     "max": 13,
@@ -1573,17 +1481,9 @@
     "max": 1,
     "text": "Carbon"
   },
-  "realms.REALMS[0].cast[2].face": {
-    "max": 1,
-    "text": "006"
-  },
   "realms.REALMS[0].cast[2].line": {
     "max": 14,
     "text": "quietly records every change, certain the forests are trying to tell a forgotten story."
-  },
-  "realms.REALMS[1].number": {
-    "max": 1,
-    "text": "02"
   },
   "realms.REALMS[1].name": {
     "max": 1,
@@ -1609,10 +1509,6 @@
     "max": 1,
     "text": "Iro"
   },
-  "realms.REALMS[1].cast[0].face": {
-    "max": 1,
-    "text": "026"
-  },
   "realms.REALMS[1].cast[0].line": {
     "max": 13,
     "text": "says the mountains are growing - no one else can see them move."
@@ -1620,10 +1516,6 @@
   "realms.REALMS[1].cast[1].name": {
     "max": 1,
     "text": "Cop"
-  },
-  "realms.REALMS[1].cast[1].face": {
-    "max": 1,
-    "text": "029"
   },
   "realms.REALMS[1].cast[1].line": {
     "max": 18,
@@ -1633,17 +1525,9 @@
     "max": 1,
     "text": "Bis"
   },
-  "realms.REALMS[1].cast[2].face": {
-    "max": 1,
-    "text": "083"
-  },
   "realms.REALMS[1].cast[2].line": {
     "max": 13,
     "text": "studies the emerging ores, recognising crystalline patterns that should have vanished long ago."
-  },
-  "realms.REALMS[2].number": {
-    "max": 1,
-    "text": "03"
   },
   "realms.REALMS[2].name": {
     "max": 2,
@@ -1669,10 +1553,6 @@
     "max": 1,
     "text": "Heli"
   },
-  "realms.REALMS[2].cast[0].face": {
-    "max": 1,
-    "text": "002"
-  },
   "realms.REALMS[2].cast[0].line": {
     "max": 8,
     "text": "hears music on winds that should not exist."
@@ -1680,10 +1560,6 @@
   "realms.REALMS[2].cast[1].name": {
     "max": 1,
     "text": "Neon"
-  },
-  "realms.REALMS[2].cast[1].face": {
-    "max": 1,
-    "text": "010"
   },
   "realms.REALMS[2].cast[1].line": {
     "max": 15,
@@ -1693,17 +1569,9 @@
     "max": 1,
     "text": "Argon"
   },
-  "realms.REALMS[2].cast[2].face": {
-    "max": 1,
-    "text": "018"
-  },
   "realms.REALMS[2].cast[2].line": {
     "max": 16,
     "text": "compares the night sky with maps so old that no one remembers who first drew them."
-  },
-  "realms.REALMS[3].number": {
-    "max": 1,
-    "text": "04"
   },
   "realms.REALMS[3].name": {
     "max": 1,
@@ -1729,10 +1597,6 @@
     "max": 1,
     "text": "Neo"
   },
-  "realms.REALMS[3].cast[0].face": {
-    "max": 1,
-    "text": "060"
-  },
   "realms.REALMS[3].cast[0].line": {
     "max": 17,
     "text": "watches the stars from the highest prism tower - now something in the sky watches them back."
@@ -1740,10 +1604,6 @@
   "realms.REALMS[3].cast[1].name": {
     "max": 1,
     "text": "Eu"
-  },
-  "realms.REALMS[3].cast[1].face": {
-    "max": 1,
-    "text": "063"
   },
   "realms.REALMS[3].cast[1].line": {
     "max": 10,
@@ -1753,17 +1613,9 @@
     "max": 1,
     "text": "Cer"
   },
-  "realms.REALMS[3].cast[2].face": {
-    "max": 1,
-    "text": "058"
-  },
   "realms.REALMS[3].cast[2].line": {
     "max": 18,
     "text": "tends the oldest archives, puzzled that they no longer agree with the sky they were made to record."
-  },
-  "realms.REALMS[4].number": {
-    "max": 1,
-    "text": "05"
   },
   "realms.REALMS[4].name": {
     "max": 1,
@@ -1789,10 +1641,6 @@
     "max": 1,
     "text": "Ura"
   },
-  "realms.REALMS[4].cast[0].face": {
-    "max": 1,
-    "text": "092"
-  },
   "realms.REALMS[4].cast[0].line": {
     "max": 22,
     "text": "feels it - the slow, vast heartbeat of the rock, its rhythm changing for a while now, and has told no one."
@@ -1800,10 +1648,6 @@
   "realms.REALMS[4].cast[1].name": {
     "max": 1,
     "text": "Proto"
-  },
-  "realms.REALMS[4].cast[1].face": {
-    "max": 1,
-    "text": "091"
   },
   "realms.REALMS[4].cast[1].line": {
     "max": 14,
@@ -1813,17 +1657,9 @@
     "max": 1,
     "text": "Thora"
   },
-  "realms.REALMS[4].cast[2].face": {
-    "max": 1,
-    "text": "090"
-  },
   "realms.REALMS[4].cast[2].line": {
     "max": 16,
     "text": "finds hidden pathways where no tunnels should exist, though no map agrees they were ever there."
-  },
-  "realms.REALMS[5].number": {
-    "max": 1,
-    "text": "06"
   },
   "realms.REALMS[5].name": {
     "max": 2,
@@ -1853,10 +1689,6 @@
     "max": 1,
     "text": "Phos"
   },
-  "realms.REALMS[5].cast[0].face": {
-    "max": 1,
-    "text": "015"
-  },
   "realms.REALMS[5].cast[0].line": {
     "max": 10,
     "text": "is drawn to currents of energy only he can sense."
@@ -1865,10 +1697,6 @@
     "max": 1,
     "text": "Sulfur"
   },
-  "realms.REALMS[5].cast[1].face": {
-    "max": 1,
-    "text": "016"
-  },
   "realms.REALMS[5].cast[1].line": {
     "max": 15,
     "text": "keeps noticing unexpected connections between events that should have nothing to do with one another."
@@ -1876,10 +1704,6 @@
   "realms.REALMS[5].cast[2].name": {
     "max": 1,
     "text": "Fluo"
-  },
-  "realms.REALMS[5].cast[2].face": {
-    "max": 1,
-    "text": "009"
   },
   "realms.REALMS[5].cast[2].line": {
     "max": 14,
